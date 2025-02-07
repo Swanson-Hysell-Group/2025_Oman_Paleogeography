@@ -1,0 +1,12 @@
+name: Oman_Paleogeography
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - jupyterlab
+  - openpyxl
+  - pip
+  - pip:
+      - radage  # needs to be released
