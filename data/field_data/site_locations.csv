@@ -1,0 +1,111 @@
+﻿site,latitude,longitude,thickness,lithology,orientation,locale,comment
+SD1,17.0513,54.8528,3.3,mafic,NNW-SSE,southwest
+SD2,17.0520,54.8509,2.7,mafic,NNW-SSE,southwest
+SD3,17.0517,54.8503,3.3,mafic,NNW-SSE,southwest
+SD4,17.0519,54.8565,1.6,mafic,NNW-SSE,southwest
+SD5,17.0528,54.8583,3.6,mafic,NNW-SSE,southwest
+SD6,17.0540,54.8590,2.5,mafic,NNW-SSE,southwest
+SD7,17.0547,54.8589,2.5,mafic,NNW-SSE,southwest
+SD8,17.0566,54.8610,1.4,mafic,NNW-SSE,southwest
+SD9,17.0583,54.8624,1.7,mafic,NNW-SSE,southwest
+SD10,17.0628,54.8610,6.6,mafic,NW-SE,southwest
+SD11,17.0419,54.9161,3.6,mafic,NNW-SSE,southwest
+SD12,17.0419,54.9158,10,mafic,NNW-SSE,southwest
+SD13,17.0456,54.9172,12.5,mafic,NNW-SSE,southwest
+SD14,17.0569,54.9133,4.3,mafic,NNW-SSE,southwest
+SD15,17.0642,54.9067,2.5,mafic,NNW-SSE,southwest
+SD16,17.0636,54.9056,2.8,mafic,NNW-SSE,southwest
+SD17,17.0603,54.9047,2.7,mafic,NNW-SSE,southwest
+SD18,17.0594,54.9050,8,mafic,NNW-SSE,southwest  
+SD19,17.0586,54.9028,5,mafic,NNW-SSE,southwest
+S19B,17.0586,54.9029,,amphibolite,,southwest
+SD20,17.0592,54.9019,1.6,mafic,NNW-SSE,southwest
+SD21,17.0633,54.8608,0.45,mafic,NNW-SSE,southwest
+SD22,17.0644,54.8614,6.4,mafic,NNW-SSE,southwest
+SD24,17.0344,54.8331,3.7,mafic,NNW-SSE,southwest
+SD25,17.0336,54.8353,7.6,mafic,NNW-SSE,southwest
+SD26,17.0358,54.8361,3.3,mafic,NNW-SSE,southwest
+SD27,17.0367,54.8350,2.1,mafic,E-W,southwest
+SD28,17.0681,54.8658,6,mafic,NNW-SSE,southwest
+SD29,17.0683,54.8661,2.4,mafic,NNW-SSE,southwest
+SD30,17.0667,54.8706,6.8,mafic,NNW-SSE,southwest
+SD31,17.0661,54.8717,4.6,mafic,NNW-SSE,southwest
+SD32,17.0661,54.8733,10.8,mafic,NNW-SSE,southwest
+SD33,17.0694,54.8756,12.5,mafic,NNW-SSE,southwest
+SD34,17.0700,54.8756,5.0,mafic,NNW-SSE,southwest
+SD35,17.0703,54.8775,5.8,mafic,NNW-SSE,southwest
+SD36,17.1411,54.9578,3.4,mafic,NNW-SSE,Leger,nice resolved magnetite component with large mt component
+SD37,17.1411,54.9578,6.3,felsic,NNW-SSE,Leger,nice resolved magnetite component with large mt component
+SD38,17.1397,54.9622,2.3,mafic,NNW-SSE,Leger,nice resolved magnetite component
+SD39,17.1394,54.9625,7.2,felsic,NNW-SSE,Leger,resolved magnetite component in one specimen obscured by large lt component in others
+SD40,17.1400,54.9622,2.2,mafic,NNW-SSE,Leger,nicely resolved magnetite component in some specimens with instability in others
+SD42,17.1417,54.9631,5.9,felsic,NNW-SSE,Leger,large spurious inconsistent overprints
+SD43,17.1422,54.9625,0.5,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD44,17.1275,54.9506,1.1,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD45,17.1272,54.9506,2.1,mafic,NNW-SSE,Leger,large lt component with variably resolved mt component
+SD46,17.1267,54.9500,1,mafic,NNW-SSE,Leger,large lt component with decently resolved magnetite component
+SD47,17.1264,54.9497,2.2,mafic,NNW-SSE,Leger,resolved magnetite component with large pyrhotite(?) component
+SD48,17.1261,54.9489,0.4,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD49,17.1256,54.9456,3.6,mafic,NNW-SSE,Leger,variably well-resolved magnetite with some specimens with parallel pyrrhotite
+SD50,17.1256,54.9456,3.2,felsic,NNW-SSE,Leger,variably resolved magnetite component that can be obscured by large lt
+SD51,17.1892,54.9381,2.8,mafic,NNW-SSE,Leger,dike baked by Leger granite with nicely resolved magnetite component
+SD52,17.1897,54.9411,0.9,mafic,NNW-SSE,Leger,unstable behavior
+SD53,17.1253, 54.9479,1.6,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD54,17.1253, 54.9471,3.1,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD55,17.1253, 54.9467,2.9,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD56,17.1253, 54.9463,1.6,mafic,NNW-SSE,Leger,nicely resolved magnetite component with pyrhotite(?) component with similiar direction in some specimens
+SD57,17.1252,54.9462,1.4,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD58,17.1251,54.9462,1.8,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD59,17.1260,54.9450,0.8,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD60,17.1254,54.9444,0.45,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD61,17.1245,54.9434,1.9,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD62,17.1242,54.9434,0.2,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD63,17.1242,54.9434,2.7,mafic,NNW-SSE,Leger,nicely resolved magnetite component with pyrhotite(?) component with similiar direction
+SD64,17.1240,54.9434,0.1,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD65,17.1238,54.9433,1.6,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD66,17.1234,54.9433,1.8,mafic,NNW-SSE,Leger,large mt component with no resolved magnetite component
+SD67,17.1240,54.9434,0.09,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD68,17.1162,54.9463,14,mafic,E-W,Leger,nicely resolved magnetite component
+SD69,17.1153,54.9501,1.0,mafic,E-W,Leger,nicely resolved magnetite component
+SD70,17.1153,54.9501,0.3,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD71,17.1149,54.9527,2.1,mafic,E-W,Leger,variably resolved magnetite component obscured by lt and instability in some specimens
+SD72,17.1439,54.9519,0.7,mafic,NNW-SSE,Leger,poorly resolved magnetite component after large lt (not fit)
+SD73,17.1441,54.9522,0.8,mafic,NNW-SSE,Leger,poorly resolved magnetite component after large lt (not fit)
+SD74,17.1438,54.9533,12.8,mafic,E-W,Leger,magnetite component variably resolved in specimens
+SD75,17.1438,54.9533,2.9,felsic,NNW-SSE,Leger,not a sampled dike
+SD76,17.1302,54.9505,10.9,felsic,NNW-SSE,Leger,no resolved magnetite component after large lt component
+SD77,17.1325,54.9506,1.6,mafic,NNW-SSE,Leger,no resolved magnetite component after large lt component
+SD78,17.1329,54.9506,1.0,mafic,NNW-SSE,Leger,resolved magnetite component
+SD79,17.1335,54.9512,0.7,mafic,NNW-SSE,Leger,resolved magnetite component
+SD80,17.1334,54.9512,1.1,felsic,NNW-SSE,Leger,large lt component obscures magnetite component
+SD81,17.0404,55.0292,11.8,felsic,NNW-SSE,Sadah,this felsic dike is cross-cut by SD82 mafic dike specimens samples close to SD82 have nicely resolved magnetite component while samples away from the baked zone have poorly resolved magnetite component with remanence dominated by lt component
+SD82,17.0404,55.0292,1.3,mafic,NNW-SSE,Sadah,large lt component obscures magnetite component in some specimens with nicely resolve magnetite in others
+SD83,17.0374,55.0298,15.8,felsic,NNW-SSE,Sadah,hematite component obscures magnetite component in some specimens with the magnetite being reversed where it is nicely resolved and the hematite being normal
+SD84,17.0374,55.0298,1.7,mafic,NNW-SSE,Sadah,nicely resolved magnetite component
+SD85,17.0439,55.0304,2.6,mafic,NNW-SSE,Sadah,nicely resolved magnetite component
+S85B,17.0439,55.0304,,gneiss,,Sadah,nicely resolved magnetite component that corresponds to SD85 dikes direction in dike proximal samples and poorly resolved directions away from baked zone
+SD86,17.1444,54.9623,1.0,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD87,17.1447,54.9620,0.8,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD88,17.1419,54.9628,0.1,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD89,17.1415,54.9627,4.0,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD90,17.1411,54.9623,1.1,mafic,NNW-SSE,Leger,nicely resolved magnetite component and antiparallel magnetization before magnetite
+SD91,17.1408,54.9621,0.8,intermediate,NNW-SSE,Leger,large lt component obscures magnetite component in some specimens
+SD92,17.1404,54.9623,3.6,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD93,17.1399,54.9627,1.3,mafic,NNW-SSE,Leger,large lt component with no resolved magnetite component
+SD94,17.1398,54.9617,1.2,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD95,17.1327,54.9540,8.3,felsic,NNW-SSE,Leger,magnetite component obscured by hematite with similar direction but shallower inclination in some specimens
+SD96,17.1326,54.9540,,mafic,NNW-SSE,Leger,magnetite component isolated after large lt component
+SD97,17.1345,54.9548,1.4,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+SD98,17.1347,54.9549,2.9,mafic,NNW-SSE,Leger,unstable behavior
+SD99,17.1348,54.9549,0.9,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+S100,17.1351,54.9550,2.1,felsic,NNW-SSE,Leger,no resolved magnetite component
+S101,17.1110,54.9426,0.5,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+S102,17.1075,54.9425,7.4,mafic,NNW-SSE,Leger,poorly resolved magnetite component
+S103,17.1049,54.9430,8.4,mafic,E-W,Leger,nicely resolved magnetite component
+S104,17.1219,54.9242,6.5,mafic,E-W,Leger,nicely resolved magnetite component and antiparallel magnetization before magnetite
+S105,17.1219,54.9240,9.6,intermediate,NNW-SSE,Leger,poorly resolved magnetite component
+S106,17.1171,54.9346,13.2,mafic,E-W,Leger,nicely resolved magnetite component in some specimens
+S107,17.1169,54.9329,0.6,mafic,NNW-SSE,Leger,nicely resolved magnetite component
+Ayn1,17.0919,54.7689,
+Ayn2,17.0928,54.7669,
+AynC,17.0928,54.7669,
