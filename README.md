@@ -1,7 +1,7 @@
 # 2025 Oman Paleogeography
 Repository of code and data associated with study of Tonian Shaat dikes of Oman as described in the manuscript:
 
-## Positioning Oman and the Arc Terranes of the Arabian-Nubian Shield at the Onset of the Cryogenian
+## Oman was on the northern margin of a wide late Tonian Mozambique Ocean
 Nicholas L. Swanson-Hysell<sup>1</sup>, Yiming Zhang<sup>1</sup>, Francis A. Macdonald<sup>2</sup>,  
 Isabel Koran<sup>2</sup>, Adrian R. Tasistro-Hart<sup>2</sup>, Annabel F. Jay<sup>3</sup>  
 
