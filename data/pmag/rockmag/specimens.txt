@@ -1,0 +1,21 @@
+tab 	specimens
+aniso_f	aniso_l	aniso_p	aniso_s	aniso_s_n_measurements	aniso_t	aniso_type	azimuth	citations	contribution_id	critical_temp	critical_temp_high	critical_temp_low	critical_temp_mineral	critical_temp_type	description	dip	experiments	hyst_bc	hyst_bc_offset	hyst_bcr	hyst_loop	hyst_mr_mass	hyst_ms_mass	hyst_xhf	igsn	igsn_parent	instrument_codes	meas_orient_phi	meas_orient_theta	meas_temp	method_codes	mineral_type	rem_hirm_mass	rem_sratio	rem_sratio_back	rem_sratio_forward	result_quality	row_id	sample	specimen	synthetic_alternatives	volume	weight
+							0	This Study							Shaat dike	90															LP-MASS:LP-VOL						g		SD38-3	SD18-3		1E-6	0.00016107
+								This Study							Shaat dike																LP-MASS						g		SD38-3	SD38-3			0.00010492
+								This Study							Shaat dike																LP-MASS						g		SD47-4	SD47-4			0.00014614
+								This Study							Shaat dike																LP-MASS						g		SD49-1	SD49-1			9.634E-5
+								This Study							Shaat dike																LP-MASS						g		SD56-3	SD56-3			0.00010223
+								This Study							Shaat dike																LP-MASS						g		SD58-1	SD58-1			0.00017474
+								This Study							Shaat dike																LP-MASS						g		SD90-3	SD90-3			8.537E-5
+								This Study									IRM-VSM4-LP-HYS-241942	1.822e-2	-1.507e-5			1.483e-1	7.650e-1	1.449e-7			IRM-VSM4	.00	.00	294.00	LP-HYS:SM-REG-LIN:SM-SLOPE:LP-HYS-M								SD38-3	SD38-3			1.049e-4
+								This Study									IRM-VSM4-LP-HYS-241945	2.955e-2	-2.454e-3			7.663e-4	1.164e-3	1.408e-7			IRM-VSM4	.00	.00	294.00	LP-HYS:SM-REG-LIN:SM-SLOPE:LP-HYS-M								SD47-4	SD47-4			1.461e-4
+								This Study									IRM-VSM4-LP-HYS-241947	9.139e-2	-7.613e-4			1.414e-1	3.103e-1	1.595e-7			IRM-VSM4	.00	.00	294.00	LP-HYS:SM-REG-LIN:SM-SLOPE:LP-HYS-M								SD49-1	SD49-1			9.634e-5
+								This Study									IRM-VSM4-LP-HYS-241949	2.720e-2	-1.480e-5			5.108e-1	1.757e0	1.793e-7			IRM-VSM4	.00	.00	294.00	LP-HYS:SM-REG-LIN:SM-SLOPE:LP-HYS-M								SD56-3	SD56-3			1.022e-4
+								This Study									IRM-VSM4-LP-HYS-241951	1.933e-2	-2.635e-5			1.188e-1	5.107e-1	1.831e-7			IRM-VSM4	.00	.00	294.00	LP-HYS:SM-REG-LIN:SM-SLOPE:LP-HYS-M								SD58-1	SD58-1			1.747e-4
+								This Study									IRM-VSM4-LP-HYS-241954	1.895e-2	-4.704e-4			4.106e-3	1.823e-2	1.506e-7			IRM-VSM4	.00	.00	294.00	LP-HYS:SM-REG-LIN:SM-SLOPE:LP-HYS-M								SD90-3	SD90-3			8.537e-5
+								This Study									IRM-VSM4-LP-BCR-BF-241943			3.39E-2		1.474e-1					IRM-VSM4	.000	.000	294.00	LP-BCR-BF		1.846e-5	.938	0.100	1.500			SD38-3	SD38-3			1.049e-4
+								This Study									IRM-VSM4-LP-BCR-BF-241946			5.33E-2		7.614e-4					IRM-VSM4	.000	.000	294.00	LP-BCR-BF		2.924e-5	.584	0.100	1.500			SD47-4	SD47-4			1.461e-4
+								This Study									IRM-VSM4-LP-BCR-BF-241948			1.37E-1		1.409e-1					IRM-VSM4	.000	.000	294.00	LP-BCR-BF		1.804e-2	-.322	0.100	1.500			SD49-1	SD49-1			9.634e-5
+								This Study									IRM-VSM4-LP-BCR-BF-241950			4.26E-2		5.079e-1					IRM-VSM4	.000	.000	294.00	LP-BCR-BF		-1.923e-4	.884	0.100	1.500			SD56-3	SD56-3			1.022e-4
+								This Study									IRM-VSM4-LP-BCR-BF-241952			3.21E-2		1.182e-1					IRM-VSM4	.000	.000	294.00	LP-BCR-BF		5.070e-6	.941	0.100	1.500			SD58-1	SD58-1			1.747e-4
+								This Study									IRM-VSM4-LP-BCR-BF-241955			3.60E-2		4.080e-3					IRM-VSM4	.000	.000	294.00	LP-BCR-BF		1.036e-5	.884	0.100	1.500			SD90-3	SD90-3			8.537e-5
