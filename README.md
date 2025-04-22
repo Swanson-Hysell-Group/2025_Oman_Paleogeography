@@ -1,5 +1,5 @@
 # 2025 Oman Paleogeography
-Repository of code and data associated with study of Tonian Shaat dikes of Oman as described in the manuscript:
+Repository of code and data associated with study of Tonian Shaat dikes of Oman as described in the submitted manuscript:
 
 ## Oman was on the northern margin of a wide late Tonian Mozambique Ocean
 Nicholas L. Swanson-Hysell<sup>1</sup>, Yiming Zhang<sup>1</sup>, Francis A. Macdonald<sup>2</sup>,  
