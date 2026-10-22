@@ -1,388 +1,388 @@
 tab	samples
-sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
-SD1-1	SD1	0					189.0	0	0.0	90.0	-62	This study	SO-CMD-NORTH
-SD1-2	SD1	0					113.0	0	0.0	90.0	-73	This study	SO-CMD-NORTH
-SD1-3	SD1	0					-61.0	0	0.0	90.0	-28	This study	SO-CMD-NORTH
-SD1-4	SD1	0					115.0	0	0.0	90.0	-120	This study	SO-CMD-NORTH
-SD1-5	SD1	0					232.0	0	0.0	90.0	-19	This study	SO-CMD-NORTH
-SD1-6	SD1	0					86.0	0	0.0	90.0	-76	This study	SO-CMD-NORTH
-SD1-7	SD1	0					23.0	0	0.0	90.0	-85	This study	SO-CMD-NORTH
-SD2-1	SD2	0					153.0	0	0.0	90.0	-87	This study	SO-CMD-NORTH
-SD2-2	SD2	0					-16.5	0	0.0	90.0	-47	This study	SO-CMD-NORTH
-SD2-3	SD2	0					-40.0	0	0.0	90.0	-27	This study	SO-CMD-NORTH
-SD3-1	SD3	0					-21.0	0	0.0	90.0	-76	This study	SO-CMD-NORTH
-SD3-2	SD3	0					36.0	0	0.0	90.0	-67	This study	SO-CMD-NORTH
-SD3-3	SD3	0					10.0	0	0.0	90.0	-63	This study	SO-CMD-NORTH
-SD4-1	SD4	0					-51.0	0	0.0	90.0	-75	This study	SO-CMD-NORTH
-SD4-2	SD4	0					210.0	0	0.0	90.0	-78	This study	SO-CMD-NORTH
-SD4-3	SD4	0					176.0	0	0.0	90.0	-44	This study	SO-CMD-NORTH
-SD4-4	SD4	0					32.0	0	0.0	90.0	-100	This study	SO-CMD-NORTH
-SD5-1	SD5	0					-64.0	0	0.0	90.0	-62	This study	SO-CMD-NORTH
-SD5-2	SD5	0					-61.0	0	0.0	90.0	-51	This study	SO-CMD-NORTH
-SD5-3	SD5	0					100.0	0	0.0	90.0	-101	This study	SO-CMD-NORTH
-SD5-4	SD5	0					28.0	0	0.0	90.0	-82	This study	SO-CMD-NORTH
-SD6-1	SD6	0					245.0	0	0.0	90.0	-43	This study	SO-CMD-NORTH
-SD6-2	SD6	0					174.0	0	0.0	90.0	-23	This study	SO-CMD-NORTH
-SD6-3	SD6	0					120.0	0	0.0	90.0	-97	This study	SO-CMD-NORTH
-SD7-1	SD7	0					181.0	0	0.0	90.0	-85	This study	SO-CMD-NORTH
-SD7-2	SD7	0					160.0	0	0.0	90.0	-47	This study	SO-CMD-NORTH
-SD7-3	SD7	0					38.0	0	0.0	90.0	-61	This study	SO-CMD-NORTH
-SD7-4	SD7	0					56.0	0	0.0	90.0	-36	This study	SO-CMD-NORTH
-SD8-1	SD8	0					97.0	0	0.0	90.0	-32	This study	SO-CMD-NORTH
-SD8-2	SD8	0					-6.0	0	0.0	90.0	-5	This study	SO-CMD-NORTH
-SD8-3	SD8	0					-4.0	0	0.0	90.0	-63	This study	SO-CMD-NORTH
-SD9-1	SD9	0					170.0	0	0.0	90.0	-46	This study	SO-CMD-NORTH
-SD9-2	SD9	0					24.0	0	0.0	90.0	-62	This study	SO-CMD-NORTH
-SD9-3	SD9	0					241.0	0	0.0	90.0	-61	This study	SO-CMD-NORTH
-SD10-1	SD10	0					126.0	0	0.0	90.0	-17	This study	SO-CMD-NORTH
-SD10-2	SD10	0					256.0	0	0.0	90.0	-7	This study	SO-CMD-NORTH
-SD10-3	SD10	0					237.0	0	0.0	90.0	-16	This study	SO-CMD-NORTH
-SD10-4	SD10	0					-87.0	0	0.0	90.0	-12	This study	SO-CMD-NORTH
-SD11-1	SD11	0					16.0	0	0.0	90.0	-90	This study	SO-CMD-NORTH
-SD11-2	SD11	0					256.0	0	0.0	90.0	-29	This study	SO-CMD-NORTH
-SD11-3	SD11	0					14.0	0	0.0	90.0	-97	This study	SO-CMD-NORTH
-SD12-1	SD12	0					-7.0	0	0.0	90.0	-22	This study	SO-CMD-NORTH
-SD12-2	SD12	0					144.0	0	0.0	90.0	-60	This study	SO-CMD-NORTH
-SD12-3	SD12	0					138.0	0	0.0	90.0	-76	This study	SO-CMD-NORTH
-SD13-1	SD13	0					55.0	0	0.0	90.0	-65	This study	SO-CMD-NORTH
-SD13-2	SD13	0					104.0	0	0.0	90.0	-82	This study	SO-CMD-NORTH
-SD13-3	SD13	0					180.0	0	0.0	90.0	-39	This study	SO-CMD-NORTH
-SD14-1	SD14	0					167.0	0	0.0	90.0	-104	This study	SO-CMD-NORTH
-SD14-2	SD14	0					180.0	0	0.0	90.0	-79	This study	SO-CMD-NORTH
-SD14-3	SD14	0					-27.0	0	0.0	90.0	-80	This study	SO-CMD-NORTH
-SD15-1	SD15	0					165.0	0	0.0	90.0	-33	This study	SO-CMD-NORTH
-SD15-2	SD15	0					128.0	0	0.0	90.0	-41	This study	SO-CMD-NORTH
-SD15-3	SD15	0					135.0	0	0.0	90.0	-36	This study	SO-CMD-NORTH
-SD15-4	SD15	0					253.0	0	0.0	90.0	-83	This study	SO-CMD-NORTH
-SD16-1	SD16	0					264.0	0	0.0	90.0	-57	This study	SO-CMD-NORTH
-SD16-2	SD16	0					58.0	0	0.0	90.0	-56	This study	SO-CMD-NORTH
-SD16-3	SD16	0					68.0	0	0.0	90.0	-63	This study	SO-CMD-NORTH
-SD16-4	SD16	0					-37.0	0	0.0	90.0	-10	This study	SO-CMD-NORTH
-SD17-1	SD17	0					149.0	0	0.0	90.0	-84	This study	SO-CMD-NORTH
-SD17-2	SD17	0					175.0	0	0.0	90.0	-75	This study	SO-CMD-NORTH
-SD17-3	SD17	0					173.0	0	0.0	90.0	-74	This study	SO-CMD-NORTH
-SD18-1	SD18	0					-77.0	0	0.0	90.0	-56	This study	SO-CMD-NORTH
-SD18-2	SD18	0					160.0	0	0.0	90.0	-59	This study	SO-CMD-NORTH
-SD18-3	SD18	0					267.0	0	0.0	90.0	-33	This study	SO-CMD-NORTH
-SD18-4	SD18	0					-77.0	0	0.0	90.0	-50	This study	SO-CMD-NORTH
-SD18-5	SD18	0					1.0	0	0.0	90.0	-60	This study	SO-CMD-NORTH
-SD19-1	SD19	0					153.0	0	0.0	90.0	-55	This study	SO-CMD-NORTH
-SD19-2	SD19	0					167.0	0	0.0	90.0	-80	This study	SO-CMD-NORTH
-SD19-3	SD19	0					226.0	0	0.0	90.0	-21	This study	SO-CMD-NORTH
-SD19-4	SD19	0					161.0	0	0.0	90.0	-83	This study	SO-CMD-NORTH
-SD19-5	SD19	0					61.0	0	0.0	90.0	-60	This study	SO-CMD-NORTH
-SD19-6	SD19	0					239.0	0	0.0	90.0	-11	This study	SO-CMD-NORTH
-S19B-1	S19B	0					44.0	0	0.0	90.0	-75	This study	SO-CMD-NORTH
-S19B-2	S19B	0					44.0	0	0.0	90.0	-69	This study	SO-CMD-NORTH
-S19B-3	S19B	0					169.0	0	0.0	90.0	-33	This study	SO-CMD-NORTH
-S19B-4	S19B	0					54.0	0	0.0	90.0	-70	This study	SO-CMD-NORTH
-S19B-5	S19B	0					236.0	0	0.0	90.0	-12	This study	SO-CMD-NORTH
-S19B-6	S19B	0					-70.0	0	0.0	90.0	-21	This study	SO-CMD-NORTH
-S19B-7	S19B	0					-86.0	0	0.0	90.0	-27	This study	SO-CMD-NORTH
-S19B-9	S19B	0					-73.0	0	0.0	90.0	-23	This study	SO-CMD-NORTH
-S19B-10	S19B	0					-27.0	0	0.0	90.0	-48	This study	SO-CMD-NORTH
-S19B-11	S19B	0					-75.0	0	0.0	90.0	-41	This study	SO-CMD-NORTH
-S19B-12	S19B	0					-48.0	0	0.0	90.0	-20	This study	SO-CMD-NORTH
-SD20-1	SD20	0					38.0	0	0.0	90.0	-49	This study	SO-CMD-NORTH
-SD20-2	SD20	0					65.0	0	0.0	90.0	-59	This study	SO-CMD-NORTH
-SD20-3	SD20	0					55.0	0	0.0	90.0	-60	This study	SO-CMD-NORTH
-SD20-4	SD20	0					202.0	0	0.0	90.0	-63	This study	SO-CMD-NORTH
-SD21-1	SD21	0					198.0	0	0.0	90.0	-88	This study	SO-CMD-NORTH
-SD21-2	SD21	0					184.0	0	0.0	90.0	-43	This study	SO-CMD-NORTH
-SD21-4	SD21	0					100.0	0	0.0	90.0	-86	This study	SO-CMD-NORTH
-SD22-1	SD22	0					-23.0	0	0.0	90.0	-74	This study	SO-CMD-NORTH
-SD22-2	SD22	0					65.0	0	0.0	90.0	-46	This study	SO-CMD-NORTH
-SD22-3	SD22	0					18.0	0	0.0	90.0	-65	This study	SO-CMD-NORTH
-SD24-1	SD24	0					56.0	0	0.0	90.0	-47	This study	SO-CMD-NORTH
-SD24-2	SD24	0					-86.0	0	0.0	90.0	-65	This study	SO-CMD-NORTH
-SD24-3	SD24	0					240.0	0	0.0	90.0	-32	This study	SO-CMD-NORTH
-SD25-1	SD25	0					148.0	0	0.0	90.0	-57	This study	SO-CMD-NORTH
-SD25-2	SD25	0					-70.0	0	0.0	90.0	-49	This study	SO-CMD-NORTH
-SD25-3	SD25	0					-78.0	0	0.0	90.0	-58	This study	SO-CMD-NORTH
-SD26-1	SD26	0					51.0	0	0.0	90.0	-77	This study	SO-CMD-NORTH
-SD26-2	SD26	0					-59.0	0	0.0	90.0	-53	This study	SO-CMD-NORTH
-SD26-3	SD26	0					200.0	0	0.0	90.0	-64	This study	SO-CMD-NORTH
-SD26-4	SD26	0					75.0	0	0.0	90.0	-23	This study	SO-CMD-NORTH
-SD27-1	SD27	0					107.0	0	0.0	90.0	-36	This study	SO-CMD-NORTH
-SD27-2	SD27	0					98.0	0	0.0	90.0	-16	This study	SO-CMD-NORTH
-SD27-3	SD27	0					222.0	0	0.0	90.0	-93	This study	SO-CMD-NORTH
-SD28-1	SD28	0					195.0	0	0.0	90.0	-29	This study	SO-CMD-NORTH
-SD28-2	SD28	0					169.0	0	0.0	90.0	-56	This study	SO-CMD-NORTH
-SD28-3	SD28	0					162.0	0	0.0	90.0	-16	This study	SO-CMD-NORTH
-SD29-1	SD29	0					133.0	0	0.0	90.0	-32	This study	SO-CMD-NORTH
-SD29-2	SD29	0					230.0	0	0.0	90.0	-50	This study	SO-CMD-NORTH
-SD29-3	SD29	0					-28.0	0	0.0	90.0	-31	This study	SO-CMD-NORTH
-SD30-1	SD30	0					-85.0	0	0.0	90.0	-56	This study	SO-CMD-NORTH
-SD30-2	SD30	0					-80.0	0	0.0	90.0	-60	This study	SO-CMD-NORTH
-SD30-3	SD30	0					-62.0	0	0.0	90.0	-27	This study	SO-CMD-NORTH
-SD31-1	SD31	0					-40.0	0	0.0	90.0	-54	This study	SO-CMD-NORTH
-SD31-2	SD31	0					6.0	0	0.0	90.0	-59	This study	SO-CMD-NORTH
-SD31-3	SD31	0					151.0	0	0.0	90.0	-87	This study	SO-CMD-NORTH
-SD32-1	SD32	0					267.0	0	0.0	90.0	-29	This study	SO-CMD-NORTH
-SD32-2	SD32	0					38.0	0	0.0	90.0	-88	This study	SO-CMD-NORTH
-SD32-3	SD32	0					-63.0	0	0.0	90.0	-49	This study	SO-CMD-NORTH
-SD33-1	SD33	0					204.0	0	0.0	90.0	-16	This study	SO-CMD-NORTH
-SD33-2	SD33	0					126.0	0	0.0	90.0	-23	This study	SO-CMD-NORTH
-SD33-3	SD33	0					67.0	0	0.0	90.0	-11	This study	SO-CMD-NORTH
-SD34-1	SD34	0					204.0	0	0.0	90.0	-29	This study	SO-CMD-NORTH
-SD34-2	SD34	0					191.0	0	0.0	90.0	-43	This study	SO-CMD-NORTH
-SD34-3	SD34	0					-47.0	0	0.0	90.0	-92	This study	SO-CMD-NORTH
-SD35-1	SD35	0					251.0	0	0.0	90.0	-37	This study	SO-CMD-NORTH
-SD35-2	SD35	0					147.0	0	0.0	90.0	-73	This study	SO-CMD-NORTH
-SD35-3	SD35	0					208.0	0	0.0	90.0	-26	This study	SO-CMD-NORTH
-SD36-1	SD36	0					127.0	0	6.1	329.2	-90	This study	SO-CMD-NORTH
-SD36-2	SD36	0					183.0	0	6.1	329.2	-14	This study	SO-CMD-NORTH
-SD36-3	SD36	0					219.0	0	6.1	329.2	-92	This study	SO-CMD-NORTH
-SD37-1	SD37	0					-83.0	0	6.1	329.2	-34	This study	SO-CMD-NORTH
-SD37-2	SD37	0					-32.0	0	6.1	329.2	-71	This study	SO-CMD-NORTH
-SD37-3	SD37	0					-49.0	0	6.1	329.2	-21	This study	SO-CMD-NORTH
-SD38-1	SD38	0					-46.0	0	6.1	329.2	-39	This study	SO-CMD-NORTH
-SD38-2	SD38	0					-62.0	0	6.1	329.2	-63	This study	SO-CMD-NORTH
-SD38-3	SD38	0					210.0	0	6.1	329.2	-13	This study	SO-CMD-NORTH
-SD39-1	SD39	0					-38.0	0	6.1	329.2	-80	This study	SO-CMD-NORTH
-SD39-2	SD39	0					105.0	0	6.1	329.2	-47	This study	SO-CMD-NORTH
-SD39-3	SD39	0					224.0	0	6.1	329.2	-58	This study	SO-CMD-NORTH
-SD39-4	SD39	0					-68.0	0	6.1	329.2	-82	This study	SO-CMD-NORTH
-SD40-1	SD40	0					-18.0	0	6.1	329.2	-19	This study	SO-CMD-NORTH
-SD40-2	SD40	0					145.0	0	6.1	329.2	-37	This study	SO-CMD-NORTH
-SD40-3	SD40	0					165.0	0	6.1	329.2	-94	This study	SO-CMD-NORTH
-SD40-4	SD40	0					-36.0	0	6.1	329.2	-18	This study	SO-CMD-NORTH
-SD40-5	SD40	0					180.0	0	6.1	329.2	-92	This study	SO-CMD-NORTH
-SD40-6	SD40	0					151.0	0	6.1	329.2	-81	This study	SO-CMD-NORTH
-SD42-1	SD42	0					-35.0	0	6.1	329.2	-56	This study	SO-CMD-NORTH
-SD42-2	SD42	0					-30.0	0	6.1	329.2	-43	This study	SO-CMD-NORTH
-SD42-3	SD42	0					205.0	0	6.1	329.2	-25	This study	SO-CMD-NORTH
-SD42-4	SD42	0					-44.0	0	6.1	329.2	-40	This study	SO-CMD-NORTH
-SD42-5	SD42	0					212.0	0	6.1	329.2	-31	This study	SO-CMD-NORTH
-SD43-1	SD43	0					-13.0	0	6.1	329.2	-23	This study	SO-CMD-NORTH
-SD43-2	SD43	0					-58.0	0	6.1	329.2	-13	This study	SO-CMD-NORTH
-SD43-3	SD43	0					153.0	0	6.1	329.2	-29	This study	SO-CMD-NORTH
-SD44-1	SD44	0					13.0	0	6.1	329.2	-78	This study	SO-CMD-NORTH
-SD44-2	SD44	0					101.0	0	6.1	329.2	-91	This study	SO-CMD-NORTH
-SD44-3	SD44	0					-74.0	0	6.1	329.2	-76	This study	SO-CMD-NORTH
-SD45-1	SD45	0					115.0	0	6.1	329.2	-87	This study	SO-CMD-NORTH
-SD45-2	SD45	0					-63.0	0	6.1	329.2	-79	This study	SO-CMD-NORTH
-SD45-3	SD45	0					-9.0	0	6.1	329.2	-7	This study	SO-CMD-NORTH
-SD46-1	SD46	0					-27.0	0	6.1	329.2	-38	This study	SO-CMD-NORTH
-SD46-2	SD46	0					-33.0	0	6.1	329.2	-23	This study	SO-CMD-NORTH
-SD47-1	SD47	0					249.0	0	6.1	329.2	-90	This study	SO-CMD-NORTH
-SD47-2	SD47	0					164.0	0	6.1	329.2	-15	This study	SO-CMD-NORTH
-SD47-3	SD47	0					-72.0	0	6.1	329.2	-22	This study	SO-CMD-NORTH
-SD47-4	SD47	0					-15.0	0	6.1	329.2	-12	This study	SO-CMD-NORTH
-SD48-1	SD48	0					234.0	0	6.1	329.2	-12	This study	SO-CMD-NORTH
-SD48-2	SD48	0					242.0	0	6.1	329.2	-12	This study	SO-CMD-NORTH
-SD48-3	SD48	0					258.0	0	6.1	329.2	-12	This study	SO-CMD-NORTH
-SD49-1	SD49	0					-9.0	0	6.1	329.2	-75	This study	SO-CMD-NORTH
-SD49-2	SD49	0					258.0	0	6.1	329.2	-35	This study	SO-CMD-NORTH
-SD49-3	SD49	0					-71.0	0	6.1	329.2	-83	This study	SO-CMD-NORTH
-SD49-4	SD49	0					110.0	0	6.1	329.2	-71	This study	SO-CMD-NORTH
-SD50-1	SD50	0					110.0	0	6.1	329.2	-67	This study	SO-CMD-NORTH
-SD50-2	SD50	0					124.0	0	6.1	329.2	-48	This study	SO-CMD-NORTH
-SD50-3	SD50	0					1.0	0	6.1	329.2	-34	This study	SO-CMD-NORTH
-SD50-4	SD50	0					176.0	0	6.1	329.2	-75	This study	SO-CMD-NORTH
-SD50-5	SD50	0					-23.0	0	6.1	329.2	-58	This study	SO-CMD-NORTH
-SD50-6	SD50	0					61.0	0	6.1	329.2	-72	This study	SO-CMD-NORTH
-SD50-7	SD50	0					60.0	0	6.1	329.2	-72	This study	SO-CMD-NORTH
-SD51-2	SD51	0					-61.0	0	6.1	329.2	-88	This study	SO-CMD-NORTH
-SD51-3	SD51	0					125.0	0	6.1	329.2	-80	This study	SO-CMD-NORTH
-SD51-4	SD51	0					-30.0	0	6.1	329.2	-15	This study	SO-CMD-NORTH
-SD52-1	SD52	0					191.0	0	6.1	329.2	-16	This study	SO-CMD-NORTH
-SD52-2	SD52	0					-71.0	0	6.1	329.2	-25	This study	SO-CMD-NORTH
-SD52-3	SD52	0					148.0	0	6.1	329.2	-84	This study	SO-CMD-NORTH
-SD52-4	SD52	0					-76.0	0	6.1	329.2	-18	This study	SO-CMD-NORTH
-SD52-5	SD52	0					-42.0	0	6.1	329.2	-81	This study	SO-CMD-NORTH
-SD52-6	SD52	0					238.0	0	6.1	329.2	-87	This study	SO-CMD-NORTH
-SD52-7	SD52	0					-41.0	0	6.1	329.2	-73	This study	SO-CMD-NORTH
-SD52-8	SD52	0					196.0	0	6.1	329.2	-3	This study	SO-CMD-NORTH
-SD52-9	SD52	0					35.0	0	6.1	329.2	-20	This study	SO-CMD-NORTH
-SD53-1	SD53	0					137.0	0	6.1	329.2	-91	This study	SO-CMD-NORTH
-SD53-2	SD53	0					-51.0	0	6.1	329.2	-40	This study	SO-CMD-NORTH
-SD53-3	SD53	0					-63.0	0	6.1	329.2	-47	This study	SO-CMD-NORTH
-SD54-1	SD54	0					65.0	0	6.1	329.2	-20	This study	SO-CMD-NORTH
-SD54-2	SD54	0					-59.0	0	6.1	329.2	-36	This study	SO-CMD-NORTH
-SD54-3	SD54	0					-39.0	0	6.1	329.2	-33	This study	SO-CMD-NORTH
-SD55-1	SD55	0					82.0	0	6.1	329.2	-18	This study	SO-CMD-NORTH
-SD56-1	SD56	0					-40.0	0	6.1	329.2	-46	This study	SO-CMD-NORTH
-SD56-2	SD56	0					172.0	0	6.1	329.2	-11	This study	SO-CMD-NORTH
-SD56-3	SD56	0					127.0	0	6.1	329.2	-30	This study	SO-CMD-NORTH
-SD57-1	SD57	0					135.0	0	6.1	329.2	-7	This study	SO-CMD-NORTH
-SD57-2	SD57	0					-82.0	0	6.1	329.2	-15	This study	SO-CMD-NORTH
-SD57-3	SD57	0					192.0	0	6.1	329.2	-25	This study	SO-CMD-NORTH
-SD58-1	SD58	0					163.0	0	6.1	329.2	-21	This study	SO-CMD-NORTH
-SD58-2	SD58	0					58.0	0	6.1	329.2	-111	This study	SO-CMD-NORTH
-SD58-3	SD58	0					-68.0	0	6.1	329.2	-21	This study	SO-CMD-NORTH
-SD59-1	SD59	0					-81.0	0	6.1	329.2	-16	This study	SO-CMD-NORTH
-SD59-2	SD59	0					197.0	0	6.1	329.2	-86	This study	SO-CMD-NORTH
-SD60-1	SD60	0					66.0	0	6.1	329.2	-89	This study	SO-CMD-NORTH
-SD60-2	SD60	0					134.0	0	6.1	329.2	-69	This study	SO-CMD-NORTH
-SD60-3	SD60	0					202.0	0	6.1	329.2	-106	This study	SO-CMD-NORTH
-SD61-1	SD61	0					65.0	0	6.1	329.2	-50	This study	SO-CMD-NORTH
-SD62-1	SD62	0					-67.0	0	6.1	329.2	-63	This study	SO-CMD-NORTH
-SD63-1	SD63	0					238.0	0	6.1	329.2	-69	This study	SO-CMD-NORTH
-SD63-2	SD63	0					79.0	0	6.1	329.2	-23	This study	SO-CMD-NORTH
-SD63-3	SD63	0					63.0	0	6.1	329.2	-50	This study	SO-CMD-NORTH
-SD64-1	SD64	0					142.0	0	6.1	329.2	-20	This study	SO-CMD-NORTH
-SD65-1	SD65	0					145.0	0	6.1	329.2	-46	This study	SO-CMD-NORTH
-SD65-2	SD65	0					133.0	0	6.1	329.2	-56	This study	SO-CMD-NORTH
-SD65-3	SD65	0					154.0	0	6.1	329.2	-16	This study	SO-CMD-NORTH
-SD66-1	SD66	0					163.0	0	6.1	329.2	-25	This study	SO-CMD-NORTH
-SD67-1	SD67	0					65.0	0	6.1	329.2	-26	This study	SO-CMD-NORTH
-SD67-2	SD67	0					101.0	0	6.1	329.2	-20	This study	SO-CMD-NORTH
-SD67-3	SD67	0					176.0	0	6.1	329.2	-8	This study	SO-CMD-NORTH
-SD68-1	SD68	0					91.0	0	6.1	329.2	-31	This study	SO-CMD-NORTH
-SD68-2	SD68	0					218.0	0	6.1	329.2	-17	This study	SO-CMD-NORTH
-SD68-3	SD68	0					178.0	0	6.1	329.2	-17	This study	SO-CMD-NORTH
-SD68-4	SD68	0					88.0	0	6.1	329.2	-23	This study	SO-CMD-NORTH
-SD68-6	SD68	0					131.9	0	6.1	329.2	-34	This study	SO-CMD-NORTH
-SD69-1	SD69	0					262.0	0	6.1	329.2	-56	This study	SO-CMD-NORTH
-SD69-2	SD69	0					220.0	0	6.1	329.2	-41	This study	SO-CMD-NORTH
-SD70-1	SD70	0					102.0	0	6.1	329.2	-62	This study	SO-CMD-NORTH
-SD71-1	SD71	0					198.0	0	6.1	329.2	-20	This study	SO-CMD-NORTH
-SD71-2	SD71	0					-44.0	0	6.1	329.2	-31	This study	SO-CMD-NORTH
-SD71-3	SD71	0					61.0	0	6.1	329.2	-79	This study	SO-CMD-NORTH
-SD72-1	SD72	0					251.0	0	6.1	329.2	-43	This study	SO-CMD-NORTH
-SD73-1	SD73	0					178.0	0	6.1	329.2	-62	This study	SO-CMD-NORTH
-SD74-1	SD74	0					-33.0	0	6.1	329.2	-66	This study	SO-CMD-NORTH
-SD74-2	SD74	0					-8.0	0	6.1	329.2	-74	This study	SO-CMD-NORTH
-SD74-3	SD74	0					105.0	0	6.1	329.2	-61	This study	SO-CMD-NORTH
-SD74-4	SD74	0					119.0	0	6.1	329.2	-41	This study	SO-CMD-NORTH
-SD76-1	SD76	0					116.0	0	6.1	329.2	-12	This study	SO-CMD-NORTH
-SD76-2	SD76	0					180.0	0	6.1	329.2	-19	This study	SO-CMD-NORTH
-SD76-3	SD76	0					196.0	0	6.1	329.2	-5	This study	SO-CMD-NORTH
-SD76-4	SD76	0					151.0	0	6.1	329.2	-48	This study	SO-CMD-NORTH
-SD76-5	SD76	0					196.0	0	6.1	329.2	-48	This study	SO-CMD-NORTH
-SD77-1	SD77	0					264.0	0	6.1	329.2	-40	This study	SO-CMD-NORTH
-SD77-2	SD77	0					-81.0	0	6.1	329.2	-58	This study	SO-CMD-NORTH
-SD77-3	SD77	0					246.0	0	6.1	329.2	-16	This study	SO-CMD-NORTH
-S85B-1	S85B	0					-85.0	0	0.0	90.0	-67	This study	SO-CMD-NORTH
-S85B-10	S85B	0					-28.0	0	0.0	90.0	-33	This study	SO-CMD-NORTH
-S85B-2	S85B	0					-69.0	0	0.0	90.0	-89	This study	SO-CMD-NORTH
-S85B-3	S85B	0					28.0	0	0.0	90.0	-94	This study	SO-CMD-NORTH
-S85B-4	S85B	0					-77.5	0	0.0	90.0	-90	This study	SO-CMD-NORTH
-S85B-5	S85B	0					245.5	0	0.0	90.0	-42	This study	SO-CMD-NORTH
-S85B-6	S85B	0					153.0	0	0.0	90.0	-65	This study	SO-CMD-NORTH
-S85B-7	S85B	0					121.0	0	0.0	90.0	-19	This study	SO-CMD-NORTH
-S85B-8	S85B	0					141.0	0	0.0	90.0	-20	This study	SO-CMD-NORTH
-S85B-9	S85B	0					188.0	0	0.0	90.0	-46	This study	SO-CMD-NORTH
-SD78-1	SD78	0					-33.0	0	6.1	329.2	-59	This study	SO-CMD-NORTH
-SD79-1	SD79	0					191.0	0	6.1	329.2	-52	This study	SO-CMD-NORTH
-SD80-1	SD80	0					254.0	0	6.1	329.2	-70	This study	SO-CMD-NORTH
-SD80-2	SD80	0					111.0	0	6.1	329.2	-27	This study	SO-CMD-NORTH
-SD80-3	SD80	0					-29.0	0	6.1	329.2	-51	This study	SO-CMD-NORTH
-SD80-4	SD80	0					153.0	0	6.1	329.2	-90	This study	SO-CMD-NORTH
-SD81-1	SD81	0					-24.0	0	0.0	90.0	-20	This study	SO-CMD-NORTH
-SD81-2	SD81	0					42.0	0	0.0	90.0	-37	This study	SO-CMD-NORTH
-SD81-3	SD81	0					-69.0	0	0.0	90.0	-78	This study	SO-CMD-NORTH
-SD81-4	SD81	0					170.0	0	0.0	90.0	-63	This study	SO-CMD-NORTH
-SD81-5	SD81	0					163.0	0	0.0	90.0	-39	This study	SO-CMD-NORTH
-SD81-6	SD81	0					210.0	0	0.0	90.0	-20	This study	SO-CMD-NORTH
-SD82-1	SD82	0					115.0	0	0.0	90.0	-63	This study	SO-CMD-NORTH
-SD82-2	SD82	0					211.0	0	0.0	90.0	-10	This study	SO-CMD-NORTH
-SD82-3	SD82	0					130.0	0	0.0	90.0	-33	This study	SO-CMD-NORTH
-SD82-4	SD82	0					137.0	0	0.0	90.0	-44	This study	SO-CMD-NORTH
-SD82-5	SD82	0					130.0	0	0.0	90.0	-71	This study	SO-CMD-NORTH
-SD83-1	SD83	0					115.0	0	0.0	90.0	-46	This study	SO-CMD-NORTH
-SD83-2	SD83	0					71.0	0	0.0	90.0	-32	This study	SO-CMD-NORTH
-SD83-3	SD83	0					69.0	0	0.0	90.0	-35	This study	SO-CMD-NORTH
-SD83-4	SD83	0					81.0	0	0.0	90.0	-29	This study	SO-CMD-NORTH
-SD83-5	SD83	0					116.0	0	0.0	90.0	-27	This study	SO-CMD-NORTH
-SD83-6	SD83	0					95.0	0	0.0	90.0	-27	This study	SO-CMD-NORTH
-SD84-1	SD84	0					142.0	0	0.0	90.0	-13	This study	SO-CMD-NORTH
-SD84-2	SD84	0					127.0	0	0.0	90.0	-13	This study	SO-CMD-NORTH
-SD84-3	SD84	0					-73.0	0	0.0	90.0	-31	This study	SO-CMD-NORTH
-SD85-1	SD85	0					-6.0	0	0.0	90.0	-19	This study	SO-CMD-NORTH
-SD85-2	SD85	0					182.0	0	0.0	90.0	-40	This study	SO-CMD-NORTH
-SD85-3	SD85	0					60.0	0	0.0	90.0	-92	This study	SO-CMD-NORTH
-SD86-1	SD86	0					-49.0	0	6.1	329.2	-56	This study	SO-CMD-NORTH
-SD86-2	SD86	0					261.0	0	6.1	329.2	-115	This study	SO-CMD-NORTH
-SD86-3	SD86	0					244.0	0	6.1	329.2	-31	This study	SO-CMD-NORTH
-SD87-1	SD87	0					120.0	0	6.1	329.2	-31	This study	SO-CMD-NORTH
-SD87-2	SD87	0					68.0	0	6.1	329.2	-66	This study	SO-CMD-NORTH
-SD87-3	SD87	0					-49.0	0	6.1	329.2	-5	This study	SO-CMD-NORTH
-SD88-1	SD88	0					93.0	0	6.1	329.2	-22	This study	SO-CMD-NORTH
-SD89-1	SD89	0					197.0	0	6.1	329.2	-78	This study	SO-CMD-NORTH
-SD89-2	SD89	0					200.0	0	6.1	329.2	-73	This study	SO-CMD-NORTH
-SD89-3	SD89	0					96.0	0	6.1	329.2	-33	This study	SO-CMD-NORTH
-SD90-2	SD90	0					167.0	0	6.1	329.2	-21	This study	SO-CMD-NORTH
-SD90-3	SD90	0					187.0	0	6.1	329.2	-55	This study	SO-CMD-NORTH
-SD91-1	SD91	0					254.0	0	6.1	329.2	-86	This study	SO-CMD-NORTH
-SD91-2	SD91	0					166.0	0	6.1	329.2	-38	This study	SO-CMD-NORTH
-SD91-3	SD91	0					227.0	0	6.1	329.2	-86	This study	SO-CMD-NORTH
-SD92-1	SD92	0					-43.0	0	6.1	329.2	-32	This study	SO-CMD-NORTH
-SD92-2	SD92	0					111.0	0	6.1	329.2	-80	This study	SO-CMD-NORTH
-SD92-3	SD92	0					148.0	0	6.1	329.2	-15	This study	SO-CMD-NORTH
-SD93-1	SD93	0					-40.0	0	6.1	329.2	-31	This study	SO-CMD-NORTH
-SD93-2	SD93	0					2.0	0	6.1	329.2	-20	This study	SO-CMD-NORTH
-SD93-3	SD93	0					240.0	0	6.1	329.2	-66	This study	SO-CMD-NORTH
-SD94-1	SD94	0					118.0	0	6.1	329.2	-116	This study	SO-CMD-NORTH
-SD94-2	SD94	0					85.1	0	6.1	329.2	-74	This study	SO-CMD-NORTH
-SD94-3	SD94	0					-67.0	0	6.1	329.2	-25	This study	SO-CMD-NORTH
-SD95-1	SD95	0					-31.9	0	6.1	329.2	-54	This study	SO-CMD-NORTH
-SD95-2	SD95	0					254.0	0	6.1	329.2	-81	This study	SO-CMD-NORTH
-SD95-3	SD95	0					158.0	0	6.1	329.2	-78	This study	SO-CMD-NORTH
-SD95-4	SD95	0					116.0	0	6.1	329.2	-59	This study	SO-CMD-NORTH
-SD95-5	SD95	0					146.0	0	6.1	329.2	-79	This study	SO-CMD-NORTH
-SD96-1	SD96	0					68.0	0	6.1	329.2	-25	This study	SO-CMD-NORTH
-SD97-1	SD97	0					76.0	0	6.1	329.2	-40	This study	SO-CMD-NORTH
-SD98-1	SD98	0					-40.0	0	6.1	329.2	-23	This study	SO-CMD-NORTH
-SD98-2	SD98	0					-36.0	0	6.1	329.2	-19	This study	SO-CMD-NORTH
-SD98-3	SD98	0					184.0	0	6.1	329.2	-21	This study	SO-CMD-NORTH
-SD99-1	SD99	0					263.0	0	6.1	329.2	-3	This study	SO-CMD-NORTH
-SD99-2	SD99	0					120.0	0	6.1	329.2	-101	This study	SO-CMD-NORTH
-SD99-3	SD99	0					190.0	0	6.1	329.2	-24	This study	SO-CMD-NORTH
-S100-1	S100	0					150.0	0	6.1	329.2	-61	This study	SO-CMD-NORTH
-S100-2	S100	0					86.0	0	6.1	329.2	-67	This study	SO-CMD-NORTH
-S100-3	S100	0					151.0	0	6.1	329.2	-57	This study	SO-CMD-NORTH
-S101-1	S101	0					259.0	0	6.1	329.2	-35	This study	SO-CMD-NORTH
-S101-2	S101	0					231.2	0	6.1	329.2	-67	This study	SO-CMD-NORTH
-S101-3	S101	0					213.3	0	6.1	329.2	-58	This study	SO-CMD-NORTH
-S102-1	S102	0					90.0	0	6.1	329.2	-61	This study	SO-CMD-NORTH
-S102-2	S102	0					71.0	0	6.1	329.2	-60	This study	SO-CMD-NORTH
-S102-3	S102	0					239.3	0	6.1	329.2	-67	This study	SO-CMD-NORTH
-S102-4	S102	0					78.0	0	6.1	329.2	-87	This study	SO-CMD-NORTH
-S103-1	S103	0					120.0	0	6.1	329.2	-32	This study	SO-CMD-NORTH
-S103-2	S103	0					111.0	0	6.1	329.2	-66	This study	SO-CMD-NORTH
-S103-3	S103	0					185.0	0	6.1	329.2	-34	This study	SO-CMD-NORTH
-S104-1	S104	0					-58.0	0	6.1	329.2	-54	This study	SO-CMD-NORTH
-S104-2	S104	0					-19.0	0	6.1	329.2	-34	This study	SO-CMD-NORTH
-S104-3	S104	0					122.0	0	6.1	329.2	-74	This study	SO-CMD-NORTH
-S104-4	S104	0					92.0	0	6.1	329.2	-46	This study	SO-CMD-NORTH
-S104-5	S104	0					-33.0	0	6.1	329.2	-48	This study	SO-CMD-NORTH
-S104-6	S104	0					8.0	0	6.1	329.2	-28	This study	SO-CMD-NORTH
-S105-1	S105	0					80.0	0	6.1	329.2	-13	This study	SO-CMD-NORTH
-S105-2	S105	0					35.0	0	6.1	329.2	-78	This study	SO-CMD-NORTH
-S105-3	S105	0					-62.0	0	6.1	329.2	-61	This study	SO-CMD-NORTH
-S106-1	S106	0					-48.0	0	6.1	329.2	-30	This study	SO-CMD-NORTH
-S106-2	S106	0					212.0	0	6.1	329.2	-36	This study	SO-CMD-NORTH
-S106-3	S106	0					-2.3	0	6.1	329.2	-63	This study	SO-CMD-NORTH
-S106-4	S106	0					130.0	0	6.1	329.2	-16	This study	SO-CMD-NORTH
-S106-5	S106	0					52.8	0	6.1	329.2	-95	This study	SO-CMD-NORTH
-S106-6	S106	0					105.0	0	6.1	329.2	-10	This study	SO-CMD-NORTH
-S107-1	S107	0					54.0	0	6.1	329.2	-72	This study	SO-CMD-NORTH
-S19B-13	S19B	0					-89.0	0	0.0	90.0	-22	This study	SO-CMD-NORTH
-S19B-14	S19B	0					9.0	0	0.0	90.0	-25	This study	SO-CMD-NORTH
-S19B-15	S19B	0					-44.0	0	0.0	90.0	-14	This study	SO-CMD-NORTH
-S19B-16	S19B	0					-34.0	0	0.0	90.0	-20	This study	SO-CMD-NORTH
-S19B-17	S19B	0					219.0	0	0.0	90.0	-12	This study	SO-CMD-NORTH
-S19B-18	S19B	0					31.0	0	0.0	90.0	-20	This study	SO-CMD-NORTH
-S19B-19	S19B	0					243.0	0	0.0	90.0	-65	This study	SO-CMD-NORTH
-S19B-20	S19B	0					23.0	0	0.0	90.0	-72	This study	SO-CMD-NORTH
-S19B-21	S19B	0					207.0	0	0.0	90.0	-13	This study	SO-CMD-NORTH
-S19B-22	S19B	0					37.2	0	0.0	90.0	-37	This study	SO-CMD-NORTH
-AynC-1	AynC	0					13.0	0	0.0	90.0	-85	This study	SO-CMD-NORTH
-AynC-2	AynC	0					192.0	0	0.0	90.0	-30	This study	SO-CMD-NORTH
-AynC-3	AynC	0					69.0	0	0.0	90.0	-110	This study	SO-CMD-NORTH
-AynC-4	AynC	0					9.0	0	0.0	90.0	-54	This study	SO-CMD-NORTH
-AynC-5	AynC	0					-43.0	0	0.0	90.0	-63	This study	SO-CMD-NORTH
-AynC-6	AynC	0					114.0	0	0.0	90.0	-33	This study	SO-CMD-NORTH
-AynC-7	AynC	0					18.0	0	0.0	90.0	-7	This study	SO-CMD-NORTH
-AynC-8	AynC	0					40.0	0	0.0	90.0	-34	This study	SO-CMD-NORTH
-AynC-9	AynC	0					-8.0	0	0.0	90.0	-76	This study	SO-CMD-NORTH
-AynC-10	AynC	0					79.0	0	0.0	90.0	-52	This study	SO-CMD-NORTH
-AynC-11	AynC	0					-11.0	0	0.0	90.0	-66	This study	SO-CMD-NORTH
-AynC-12	AynC	0					121.0	0	0.0	90.0	-59	This study	SO-CMD-NORTH
-AynC-13	AynC	0					32.0	0	0.0	90.0	-89	This study	SO-CMD-NORTH
-AynC-14	AynC	0					-2.0	0	0.0	90.0	-74	This study	SO-CMD-NORTH
-AynC-15	AynC	0					163.0	0	0.0	90.0	-13	This study	SO-CMD-NORTH
-AynC-16	AynC	0					64.0	0	0.0	90.0	-116	This study	SO-CMD-NORTH
-AynC-17	AynC	0					240.0	0	0.0	90.0	-46	This study	SO-CMD-NORTH
+sample	site	height	lat	lon	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
+SD1-1	SD1	0	17.0513	54.8528	Igneous	Volcanic Dike	Mafic Dike		189.0	0			-62	This study	SO-CMD-NORTH
+SD1-2	SD1	0	17.0513	54.8528	Igneous	Volcanic Dike	Mafic Dike		113.0	0			-73	This study	SO-CMD-NORTH
+SD1-3	SD1	0	17.0513	54.8528	Igneous	Volcanic Dike	Mafic Dike		299.0	0			-28	This study	SO-CMD-NORTH
+SD1-4	SD1	0	17.0513	54.8528	Igneous	Volcanic Dike	Mafic Dike		115.0	0			-120	This study	SO-CMD-NORTH
+SD1-5	SD1	0	17.0513	54.8528	Igneous	Volcanic Dike	Mafic Dike		232.0	0			-19	This study	SO-CMD-NORTH
+SD1-6	SD1	0	17.0513	54.8528	Igneous	Volcanic Dike	Mafic Dike		86.0	0			-76	This study	SO-CMD-NORTH
+SD1-7	SD1	0	17.0513	54.8528	Igneous	Volcanic Dike	Mafic Dike		23.0	0			-85	This study	SO-CMD-NORTH
+SD2-1	SD2	0	17.052	54.8509	Igneous	Volcanic Dike	Mafic Dike		153.0	0			-87	This study	SO-CMD-NORTH
+SD2-2	SD2	0	17.052	54.8509	Igneous	Volcanic Dike	Mafic Dike		343.5	0			-47	This study	SO-CMD-NORTH
+SD2-3	SD2	0	17.052	54.8509	Igneous	Volcanic Dike	Mafic Dike		320.0	0			-27	This study	SO-CMD-NORTH
+SD3-1	SD3	0	17.0517	54.8503	Igneous	Volcanic Dike	Mafic Dike		339.0	0			-76	This study	SO-CMD-NORTH
+SD3-2	SD3	0	17.0517	54.8503	Igneous	Volcanic Dike	Mafic Dike		36.0	0			-67	This study	SO-CMD-NORTH
+SD3-3	SD3	0	17.0517	54.8503	Igneous	Volcanic Dike	Mafic Dike		10.0	0			-63	This study	SO-CMD-NORTH
+SD4-1	SD4	0	17.0519	54.8565	Igneous	Volcanic Dike	Mafic Dike		309.0	0			-75	This study	SO-CMD-NORTH
+SD4-2	SD4	0	17.0519	54.8565	Igneous	Volcanic Dike	Mafic Dike		210.0	0			-78	This study	SO-CMD-NORTH
+SD4-3	SD4	0	17.0519	54.8565	Igneous	Volcanic Dike	Mafic Dike		176.0	0			-44	This study	SO-CMD-NORTH
+SD4-4	SD4	0	17.0519	54.8565	Igneous	Volcanic Dike	Mafic Dike		32.0	0			-100	This study	SO-CMD-NORTH
+SD5-1	SD5	0	17.0528	54.8583	Igneous	Volcanic Dike	Mafic Dike		296.0	0			-62	This study	SO-CMD-NORTH
+SD5-2	SD5	0	17.0528	54.8583	Igneous	Volcanic Dike	Mafic Dike		299.0	0			-51	This study	SO-CMD-NORTH
+SD5-3	SD5	0	17.0528	54.8583	Igneous	Volcanic Dike	Mafic Dike		100.0	0			-101	This study	SO-CMD-NORTH
+SD5-4	SD5	0	17.0528	54.8583	Igneous	Volcanic Dike	Mafic Dike		28.0	0			-82	This study	SO-CMD-NORTH
+SD6-1	SD6	0	17.054	54.859	Igneous	Volcanic Dike	Mafic Dike		245.0	0			-43	This study	SO-CMD-NORTH
+SD6-2	SD6	0	17.054	54.859	Igneous	Volcanic Dike	Mafic Dike		174.0	0			-23	This study	SO-CMD-NORTH
+SD6-3	SD6	0	17.054	54.859	Igneous	Volcanic Dike	Mafic Dike		120.0	0			-97	This study	SO-CMD-NORTH
+SD7-1	SD7	0	17.0547	54.8589	Igneous	Volcanic Dike	Mafic Dike		181.0	0			-85	This study	SO-CMD-NORTH
+SD7-2	SD7	0	17.0547	54.8589	Igneous	Volcanic Dike	Mafic Dike		160.0	0			-47	This study	SO-CMD-NORTH
+SD7-3	SD7	0	17.0547	54.8589	Igneous	Volcanic Dike	Mafic Dike		38.0	0			-61	This study	SO-CMD-NORTH
+SD7-4	SD7	0	17.0547	54.8589	Igneous	Volcanic Dike	Mafic Dike		56.0	0			-36	This study	SO-CMD-NORTH
+SD8-1	SD8	0	17.0566	54.861	Igneous	Volcanic Dike	Mafic Dike		97.0	0			-32	This study	SO-CMD-NORTH
+SD8-2	SD8	0	17.0566	54.861	Igneous	Volcanic Dike	Mafic Dike		354.0	0			-5	This study	SO-CMD-NORTH
+SD8-3	SD8	0	17.0566	54.861	Igneous	Volcanic Dike	Mafic Dike		356.0	0			-63	This study	SO-CMD-NORTH
+SD9-1	SD9	0	17.0583	54.8624	Igneous	Volcanic Dike	Mafic Dike		170.0	0			-46	This study	SO-CMD-NORTH
+SD9-2	SD9	0	17.0583	54.8624	Igneous	Volcanic Dike	Mafic Dike		24.0	0			-62	This study	SO-CMD-NORTH
+SD9-3	SD9	0	17.0583	54.8624	Igneous	Volcanic Dike	Mafic Dike		241.0	0			-61	This study	SO-CMD-NORTH
+SD10-1	SD10	0	17.0628	54.861	Igneous	Volcanic Dike	Mafic Dike		126.0	0			-17	This study	SO-CMD-NORTH
+SD10-2	SD10	0	17.0628	54.861	Igneous	Volcanic Dike	Mafic Dike		256.0	0			-7	This study	SO-CMD-NORTH
+SD10-3	SD10	0	17.0628	54.861	Igneous	Volcanic Dike	Mafic Dike		237.0	0			-16	This study	SO-CMD-NORTH
+SD10-4	SD10	0	17.0628	54.861	Igneous	Volcanic Dike	Mafic Dike		273.0	0			-12	This study	SO-CMD-NORTH
+SD11-1	SD11	0	17.0419	54.9161	Igneous	Volcanic Dike	Mafic Dike		16.0	0			-90	This study	SO-CMD-NORTH
+SD11-2	SD11	0	17.0419	54.9161	Igneous	Volcanic Dike	Mafic Dike		256.0	0			-29	This study	SO-CMD-NORTH
+SD11-3	SD11	0	17.0419	54.9161	Igneous	Volcanic Dike	Mafic Dike		14.0	0			-97	This study	SO-CMD-NORTH
+SD12-1	SD12	0	17.0419	54.9158	Igneous	Volcanic Dike	Mafic Dike		353.0	0			-22	This study	SO-CMD-NORTH
+SD12-2	SD12	0	17.0419	54.9158	Igneous	Volcanic Dike	Mafic Dike		144.0	0			-60	This study	SO-CMD-NORTH
+SD12-3	SD12	0	17.0419	54.9158	Igneous	Volcanic Dike	Mafic Dike		138.0	0			-76	This study	SO-CMD-NORTH
+SD13-1	SD13	0	17.0456	54.9172	Igneous	Volcanic Dike	Mafic Dike		55.0	0			-65	This study	SO-CMD-NORTH
+SD13-2	SD13	0	17.0456	54.9172	Igneous	Volcanic Dike	Mafic Dike		104.0	0			-82	This study	SO-CMD-NORTH
+SD13-3	SD13	0	17.0456	54.9172	Igneous	Volcanic Dike	Mafic Dike		180.0	0			-39	This study	SO-CMD-NORTH
+SD14-1	SD14	0	17.0569	54.9133	Igneous	Volcanic Dike	Mafic Dike		167.0	0			-104	This study	SO-CMD-NORTH
+SD14-2	SD14	0	17.0569	54.9133	Igneous	Volcanic Dike	Mafic Dike		180.0	0			-79	This study	SO-CMD-NORTH
+SD14-3	SD14	0	17.0569	54.9133	Igneous	Volcanic Dike	Mafic Dike		333.0	0			-80	This study	SO-CMD-NORTH
+SD15-1	SD15	0	17.0642	54.9067	Igneous	Volcanic Dike	Mafic Dike		165.0	0			-33	This study	SO-CMD-NORTH
+SD15-2	SD15	0	17.0642	54.9067	Igneous	Volcanic Dike	Mafic Dike		128.0	0			-41	This study	SO-CMD-NORTH
+SD15-3	SD15	0	17.0642	54.9067	Igneous	Volcanic Dike	Mafic Dike		135.0	0			-36	This study	SO-CMD-NORTH
+SD15-4	SD15	0	17.0642	54.9067	Igneous	Volcanic Dike	Mafic Dike		253.0	0			-83	This study	SO-CMD-NORTH
+SD16-1	SD16	0	17.0636	54.9056	Igneous	Volcanic Dike	Mafic Dike		264.0	0			-57	This study	SO-CMD-NORTH
+SD16-2	SD16	0	17.0636	54.9056	Igneous	Volcanic Dike	Mafic Dike		58.0	0			-56	This study	SO-CMD-NORTH
+SD16-3	SD16	0	17.0636	54.9056	Igneous	Volcanic Dike	Mafic Dike		68.0	0			-63	This study	SO-CMD-NORTH
+SD16-4	SD16	0	17.0636	54.9056	Igneous	Volcanic Dike	Mafic Dike		323.0	0			-10	This study	SO-CMD-NORTH
+SD17-1	SD17	0	17.0603	54.9047	Igneous	Volcanic Dike	Mafic Dike		149.0	0			-84	This study	SO-CMD-NORTH
+SD17-2	SD17	0	17.0603	54.9047	Igneous	Volcanic Dike	Mafic Dike		175.0	0			-75	This study	SO-CMD-NORTH
+SD17-3	SD17	0	17.0603	54.9047	Igneous	Volcanic Dike	Mafic Dike		173.0	0			-74	This study	SO-CMD-NORTH
+SD18-1	SD18	0	17.0594	54.905	Igneous	Volcanic Dike	Mafic Dike		283.0	0			-56	This study	SO-CMD-NORTH
+SD18-2	SD18	0	17.0594	54.905	Igneous	Volcanic Dike	Mafic Dike		160.0	0			-59	This study	SO-CMD-NORTH
+SD18-3	SD18	0	17.0594	54.905	Igneous	Volcanic Dike	Mafic Dike		267.0	0			-33	This study	SO-CMD-NORTH
+SD18-4	SD18	0	17.0594	54.905	Igneous	Volcanic Dike	Mafic Dike		283.0	0			-50	This study	SO-CMD-NORTH
+SD18-5	SD18	0	17.0594	54.905	Igneous	Volcanic Dike	Mafic Dike		1.0	0			-60	This study	SO-CMD-NORTH
+SD19-1	SD19	0	17.0586	54.9028	Igneous	Volcanic Dike	Mafic Dike		153.0	0			-55	This study	SO-CMD-NORTH
+SD19-2	SD19	0	17.0586	54.9028	Igneous	Volcanic Dike	Mafic Dike		167.0	0			-80	This study	SO-CMD-NORTH
+SD19-3	SD19	0	17.0586	54.9028	Igneous	Volcanic Dike	Mafic Dike		226.0	0			-21	This study	SO-CMD-NORTH
+SD19-4	SD19	0	17.0586	54.9028	Igneous	Volcanic Dike	Mafic Dike		161.0	0			-83	This study	SO-CMD-NORTH
+SD19-5	SD19	0	17.0586	54.9028	Igneous	Volcanic Dike	Mafic Dike		61.0	0			-60	This study	SO-CMD-NORTH
+SD19-6	SD19	0	17.0586	54.9028	Igneous	Volcanic Dike	Mafic Dike		239.0	0			-11	This study	SO-CMD-NORTH
+S19B-1	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		44.0	0			-75	This study	SO-CMD-NORTH
+S19B-2	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		44.0	0			-69	This study	SO-CMD-NORTH
+S19B-3	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		169.0	0			-33	This study	SO-CMD-NORTH
+S19B-4	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		54.0	0			-70	This study	SO-CMD-NORTH
+S19B-5	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		236.0	0			-12	This study	SO-CMD-NORTH
+S19B-6	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		290.0	0			-21	This study	SO-CMD-NORTH
+S19B-7	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		274.0	0			-27	This study	SO-CMD-NORTH
+S19B-9	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		287.0	0			-23	This study	SO-CMD-NORTH
+S19B-10	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		333.0	0			-48	This study	SO-CMD-NORTH
+S19B-11	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		285.0	0			-41	This study	SO-CMD-NORTH
+S19B-12	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		312.0	0			-20	This study	SO-CMD-NORTH
+SD20-1	SD20	0	17.0592	54.9019	Igneous	Volcanic Dike	Mafic Dike		38.0	0			-49	This study	SO-CMD-NORTH
+SD20-2	SD20	0	17.0592	54.9019	Igneous	Volcanic Dike	Mafic Dike		65.0	0			-59	This study	SO-CMD-NORTH
+SD20-3	SD20	0	17.0592	54.9019	Igneous	Volcanic Dike	Mafic Dike		55.0	0			-60	This study	SO-CMD-NORTH
+SD20-4	SD20	0	17.0592	54.9019	Igneous	Volcanic Dike	Mafic Dike		202.0	0			-63	This study	SO-CMD-NORTH
+SD21-1	SD21	0	17.0633	54.8608	Igneous	Volcanic Dike	Mafic Dike		198.0	0			-88	This study	SO-CMD-NORTH
+SD21-2	SD21	0	17.0633	54.8608	Igneous	Volcanic Dike	Mafic Dike		184.0	0			-43	This study	SO-CMD-NORTH
+SD21-4	SD21	0	17.0633	54.8608	Igneous	Volcanic Dike	Mafic Dike		100.0	0			-86	This study	SO-CMD-NORTH
+SD22-1	SD22	0	17.0644	54.8614	Igneous	Volcanic Dike	Mafic Dike		337.0	0			-74	This study	SO-CMD-NORTH
+SD22-2	SD22	0	17.0644	54.8614	Igneous	Volcanic Dike	Mafic Dike		65.0	0			-46	This study	SO-CMD-NORTH
+SD22-3	SD22	0	17.0644	54.8614	Igneous	Volcanic Dike	Mafic Dike		18.0	0			-65	This study	SO-CMD-NORTH
+SD24-1	SD24	0	17.0344	54.8331	Igneous	Volcanic Dike	Mafic Dike		56.0	0			-47	This study	SO-CMD-NORTH
+SD24-2	SD24	0	17.0344	54.8331	Igneous	Volcanic Dike	Mafic Dike		274.0	0			-65	This study	SO-CMD-NORTH
+SD24-3	SD24	0	17.0344	54.8331	Igneous	Volcanic Dike	Mafic Dike		240.0	0			-32	This study	SO-CMD-NORTH
+SD25-1	SD25	0	17.0336	54.8353	Igneous	Volcanic Dike	Mafic Dike		148.0	0			-57	This study	SO-CMD-NORTH
+SD25-2	SD25	0	17.0336	54.8353	Igneous	Volcanic Dike	Mafic Dike		290.0	0			-49	This study	SO-CMD-NORTH
+SD25-3	SD25	0	17.0336	54.8353	Igneous	Volcanic Dike	Mafic Dike		282.0	0			-58	This study	SO-CMD-NORTH
+SD26-1	SD26	0	17.0358	54.8361	Igneous	Volcanic Dike	Mafic Dike		51.0	0			-77	This study	SO-CMD-NORTH
+SD26-2	SD26	0	17.0358	54.8361	Igneous	Volcanic Dike	Mafic Dike		301.0	0			-53	This study	SO-CMD-NORTH
+SD26-3	SD26	0	17.0358	54.8361	Igneous	Volcanic Dike	Mafic Dike		200.0	0			-64	This study	SO-CMD-NORTH
+SD26-4	SD26	0	17.0358	54.8361	Igneous	Volcanic Dike	Mafic Dike		75.0	0			-23	This study	SO-CMD-NORTH
+SD27-1	SD27	0	17.0367	54.835	Igneous	Volcanic Dike	Mafic Dike		107.0	0			-36	This study	SO-CMD-NORTH
+SD27-2	SD27	0	17.0367	54.835	Igneous	Volcanic Dike	Mafic Dike		98.0	0			-16	This study	SO-CMD-NORTH
+SD27-3	SD27	0	17.0367	54.835	Igneous	Volcanic Dike	Mafic Dike		222.0	0			-93	This study	SO-CMD-NORTH
+SD28-1	SD28	0	17.0681	54.8658	Igneous	Volcanic Dike	Mafic Dike		195.0	0			-29	This study	SO-CMD-NORTH
+SD28-2	SD28	0	17.0681	54.8658	Igneous	Volcanic Dike	Mafic Dike		169.0	0			-56	This study	SO-CMD-NORTH
+SD28-3	SD28	0	17.0681	54.8658	Igneous	Volcanic Dike	Mafic Dike		162.0	0			-16	This study	SO-CMD-NORTH
+SD29-1	SD29	0	17.0683	54.8661	Igneous	Volcanic Dike	Mafic Dike		133.0	0			-32	This study	SO-CMD-NORTH
+SD29-2	SD29	0	17.0683	54.8661	Igneous	Volcanic Dike	Mafic Dike		230.0	0			-50	This study	SO-CMD-NORTH
+SD29-3	SD29	0	17.0683	54.8661	Igneous	Volcanic Dike	Mafic Dike		332.0	0			-31	This study	SO-CMD-NORTH
+SD30-1	SD30	0	17.0667	54.8706	Igneous	Volcanic Dike	Mafic Dike		275.0	0			-56	This study	SO-CMD-NORTH
+SD30-2	SD30	0	17.0667	54.8706	Igneous	Volcanic Dike	Mafic Dike		280.0	0			-60	This study	SO-CMD-NORTH
+SD30-3	SD30	0	17.0667	54.8706	Igneous	Volcanic Dike	Mafic Dike		298.0	0			-27	This study	SO-CMD-NORTH
+SD31-1	SD31	0	17.0661	54.8717	Igneous	Volcanic Dike	Mafic Dike		320.0	0			-54	This study	SO-CMD-NORTH
+SD31-2	SD31	0	17.0661	54.8717	Igneous	Volcanic Dike	Mafic Dike		6.0	0			-59	This study	SO-CMD-NORTH
+SD31-3	SD31	0	17.0661	54.8717	Igneous	Volcanic Dike	Mafic Dike		151.0	0			-87	This study	SO-CMD-NORTH
+SD32-1	SD32	0	17.0661	54.8733	Igneous	Volcanic Dike	Mafic Dike		267.0	0			-29	This study	SO-CMD-NORTH
+SD32-2	SD32	0	17.0661	54.8733	Igneous	Volcanic Dike	Mafic Dike		38.0	0			-88	This study	SO-CMD-NORTH
+SD32-3	SD32	0	17.0661	54.8733	Igneous	Volcanic Dike	Mafic Dike		297.0	0			-49	This study	SO-CMD-NORTH
+SD33-1	SD33	0	17.0694	54.8756	Igneous	Volcanic Dike	Mafic Dike		204.0	0			-16	This study	SO-CMD-NORTH
+SD33-2	SD33	0	17.0694	54.8756	Igneous	Volcanic Dike	Mafic Dike		126.0	0			-23	This study	SO-CMD-NORTH
+SD33-3	SD33	0	17.0694	54.8756	Igneous	Volcanic Dike	Mafic Dike		67.0	0			-11	This study	SO-CMD-NORTH
+SD34-1	SD34	0	17.07	54.8756	Igneous	Volcanic Dike	Mafic Dike		204.0	0			-29	This study	SO-CMD-NORTH
+SD34-2	SD34	0	17.07	54.8756	Igneous	Volcanic Dike	Mafic Dike		191.0	0			-43	This study	SO-CMD-NORTH
+SD34-3	SD34	0	17.07	54.8756	Igneous	Volcanic Dike	Mafic Dike		313.0	0			-92	This study	SO-CMD-NORTH
+SD35-1	SD35	0	17.0703	54.8775	Igneous	Volcanic Dike	Mafic Dike		251.0	0			-37	This study	SO-CMD-NORTH
+SD35-2	SD35	0	17.0703	54.8775	Igneous	Volcanic Dike	Mafic Dike		147.0	0			-73	This study	SO-CMD-NORTH
+SD35-3	SD35	0	17.0703	54.8775	Igneous	Volcanic Dike	Mafic Dike		208.0	0			-26	This study	SO-CMD-NORTH
+SD36-1	SD36	0	17.1411	54.9578	Igneous	Volcanic Dike	Mafic Dike		127.0	0	6.1	329.2	-90	This study	SO-CMD-NORTH
+SD36-2	SD36	0	17.1411	54.9578	Igneous	Volcanic Dike	Mafic Dike		183.0	0	6.1	329.2	-14	This study	SO-CMD-NORTH
+SD36-3	SD36	0	17.1411	54.9578	Igneous	Volcanic Dike	Mafic Dike		219.0	0	6.1	329.2	-92	This study	SO-CMD-NORTH
+SD37-1	SD37	0	17.1411	54.9578	Igneous	Volcanic Dike	Felsic Dike		277.0	0	6.1	329.2	-34	This study	SO-CMD-NORTH
+SD37-2	SD37	0	17.1411	54.9578	Igneous	Volcanic Dike	Felsic Dike		328.0	0	6.1	329.2	-71	This study	SO-CMD-NORTH
+SD37-3	SD37	0	17.1411	54.9578	Igneous	Volcanic Dike	Felsic Dike		311.0	0	6.1	329.2	-21	This study	SO-CMD-NORTH
+SD38-1	SD38	0	17.1397	54.9622	Igneous	Volcanic Dike	Mafic Dike		314.0	0	6.1	329.2	-39	This study	SO-CMD-NORTH
+SD38-2	SD38	0	17.1397	54.9622	Igneous	Volcanic Dike	Mafic Dike		298.0	0	6.1	329.2	-63	This study	SO-CMD-NORTH
+SD38-3	SD38	0	17.1397	54.9622	Igneous	Volcanic Dike	Mafic Dike		210.0	0	6.1	329.2	-13	This study	SO-CMD-NORTH
+SD39-1	SD39	0	17.1394	54.9625	Igneous	Volcanic Dike	Mafic Dike		322.0	0	6.1	329.2	-80	This study	SO-CMD-NORTH
+SD39-2	SD39	0	17.1394	54.9625	Igneous	Volcanic Dike	Mafic Dike		105.0	0	6.1	329.2	-47	This study	SO-CMD-NORTH
+SD39-3	SD39	0	17.1394	54.9625	Igneous	Volcanic Dike	Mafic Dike		224.0	0	6.1	329.2	-58	This study	SO-CMD-NORTH
+SD39-4	SD39	0	17.1394	54.9625	Igneous	Volcanic Dike	Mafic Dike		292.0	0	6.1	329.2	-82	This study	SO-CMD-NORTH
+SD40-1	SD40	0	17.14	54.9622	Igneous	Volcanic Dike	Mafic Dike		342.0	0	6.1	329.2	-19	This study	SO-CMD-NORTH
+SD40-2	SD40	0	17.14	54.9622	Igneous	Volcanic Dike	Mafic Dike		145.0	0	6.1	329.2	-37	This study	SO-CMD-NORTH
+SD40-3	SD40	0	17.14	54.9622	Igneous	Volcanic Dike	Mafic Dike		165.0	0	6.1	329.2	-94	This study	SO-CMD-NORTH
+SD40-4	SD40	0	17.14	54.9622	Igneous	Volcanic Dike	Mafic Dike		324.0	0	6.1	329.2	-18	This study	SO-CMD-NORTH
+SD40-5	SD40	0	17.14	54.9622	Igneous	Volcanic Dike	Mafic Dike		180.0	0	6.1	329.2	-92	This study	SO-CMD-NORTH
+SD40-6	SD40	0	17.14	54.9622	Igneous	Volcanic Dike	Mafic Dike		151.0	0	6.1	329.2	-81	This study	SO-CMD-NORTH
+SD42-1	SD42	0	17.1417	54.9631	Igneous	Volcanic Dike	Felsic Dike		325.0	0	6.1	329.2	-56	This study	SO-CMD-NORTH
+SD42-2	SD42	0	17.1417	54.9631	Igneous	Volcanic Dike	Felsic Dike		330.0	0	6.1	329.2	-43	This study	SO-CMD-NORTH
+SD42-3	SD42	0	17.1417	54.9631	Igneous	Volcanic Dike	Felsic Dike		205.0	0	6.1	329.2	-25	This study	SO-CMD-NORTH
+SD42-4	SD42	0	17.1417	54.9631	Igneous	Volcanic Dike	Felsic Dike		316.0	0	6.1	329.2	-40	This study	SO-CMD-NORTH
+SD42-5	SD42	0	17.1417	54.9631	Igneous	Volcanic Dike	Felsic Dike		212.0	0	6.1	329.2	-31	This study	SO-CMD-NORTH
+SD43-1	SD43	0	17.1422	54.9625	Igneous	Volcanic Dike	Mafic Dike		347.0	0	6.1	329.2	-23	This study	SO-CMD-NORTH
+SD43-2	SD43	0	17.1422	54.9625	Igneous	Volcanic Dike	Mafic Dike		302.0	0	6.1	329.2	-13	This study	SO-CMD-NORTH
+SD43-3	SD43	0	17.1422	54.9625	Igneous	Volcanic Dike	Mafic Dike		153.0	0	6.1	329.2	-29	This study	SO-CMD-NORTH
+SD44-1	SD44	0	17.1275	54.9506	Igneous	Volcanic Dike	Mafic Dike		13.0	0	6.1	329.2	-78	This study	SO-CMD-NORTH
+SD44-2	SD44	0	17.1275	54.9506	Igneous	Volcanic Dike	Mafic Dike		101.0	0	6.1	329.2	-91	This study	SO-CMD-NORTH
+SD44-3	SD44	0	17.1275	54.9506	Igneous	Volcanic Dike	Mafic Dike		286.0	0	6.1	329.2	-76	This study	SO-CMD-NORTH
+SD45-1	SD45	0	17.1272	54.9506	Igneous	Volcanic Dike	Mafic Dike		115.0	0	6.1	329.2	-87	This study	SO-CMD-NORTH
+SD45-2	SD45	0	17.1272	54.9506	Igneous	Volcanic Dike	Mafic Dike		297.0	0	6.1	329.2	-79	This study	SO-CMD-NORTH
+SD45-3	SD45	0	17.1272	54.9506	Igneous	Volcanic Dike	Mafic Dike		351.0	0	6.1	329.2	-7	This study	SO-CMD-NORTH
+SD46-1	SD46	0	17.1267	54.95	Igneous	Volcanic Dike	Mafic Dike		333.0	0	6.1	329.2	-38	This study	SO-CMD-NORTH
+SD46-2	SD46	0	17.1267	54.95	Igneous	Volcanic Dike	Mafic Dike		327.0	0	6.1	329.2	-23	This study	SO-CMD-NORTH
+SD47-1	SD47	0	17.1264	54.9497	Igneous	Volcanic Dike	Mafic Dike		249.0	0	6.1	329.2	-90	This study	SO-CMD-NORTH
+SD47-2	SD47	0	17.1264	54.9497	Igneous	Volcanic Dike	Mafic Dike		164.0	0	6.1	329.2	-15	This study	SO-CMD-NORTH
+SD47-3	SD47	0	17.1264	54.9497	Igneous	Volcanic Dike	Mafic Dike		288.0	0	6.1	329.2	-22	This study	SO-CMD-NORTH
+SD47-4	SD47	0	17.1264	54.9497	Igneous	Volcanic Dike	Mafic Dike		345.0	0	6.1	329.2	-12	This study	SO-CMD-NORTH
+SD48-1	SD48	0	17.1261	54.9489	Igneous	Volcanic Dike	Mafic Dike		234.0	0	6.1	329.2	-12	This study	SO-CMD-NORTH
+SD48-2	SD48	0	17.1261	54.9489	Igneous	Volcanic Dike	Mafic Dike		242.0	0	6.1	329.2	-12	This study	SO-CMD-NORTH
+SD48-3	SD48	0	17.1261	54.9489	Igneous	Volcanic Dike	Mafic Dike		258.0	0	6.1	329.2	-12	This study	SO-CMD-NORTH
+SD49-1	SD49	0	17.1256	54.9456	Igneous	Volcanic Dike	Mafic Dike		351.0	0	6.1	329.2	-75	This study	SO-CMD-NORTH
+SD49-2	SD49	0	17.1256	54.9456	Igneous	Volcanic Dike	Mafic Dike		258.0	0	6.1	329.2	-35	This study	SO-CMD-NORTH
+SD49-3	SD49	0	17.1256	54.9456	Igneous	Volcanic Dike	Mafic Dike		289.0	0	6.1	329.2	-83	This study	SO-CMD-NORTH
+SD49-4	SD49	0	17.1256	54.9456	Igneous	Volcanic Dike	Mafic Dike		110.0	0	6.1	329.2	-71	This study	SO-CMD-NORTH
+SD50-1	SD50	0	17.1256	54.9456	Igneous	Volcanic Dike	Felsic Dike		110.0	0	6.1	329.2	-67	This study	SO-CMD-NORTH
+SD50-2	SD50	0	17.1256	54.9456	Igneous	Volcanic Dike	Felsic Dike		124.0	0	6.1	329.2	-48	This study	SO-CMD-NORTH
+SD50-3	SD50	0	17.1256	54.9456	Igneous	Volcanic Dike	Felsic Dike		1.0	0	6.1	329.2	-34	This study	SO-CMD-NORTH
+SD50-4	SD50	0	17.1256	54.9456	Igneous	Volcanic Dike	Felsic Dike		176.0	0	6.1	329.2	-75	This study	SO-CMD-NORTH
+SD50-5	SD50	0	17.1256	54.9456	Igneous	Volcanic Dike	Felsic Dike		337.0	0	6.1	329.2	-58	This study	SO-CMD-NORTH
+SD50-6	SD50	0	17.1256	54.9456	Igneous	Volcanic Dike	Felsic Dike		61.0	0	6.1	329.2	-72	This study	SO-CMD-NORTH
+SD50-7	SD50	0	17.1256	54.9456	Igneous	Volcanic Dike	Felsic Dike		60.0	0	6.1	329.2	-72	This study	SO-CMD-NORTH
+SD51-2	SD51	0	17.1892	54.9381	Igneous	Volcanic Dike	Mafic Dike		299.0	0	6.1	329.2	-88	This study	SO-CMD-NORTH
+SD51-3	SD51	0	17.1892	54.9381	Igneous	Volcanic Dike	Mafic Dike		125.0	0	6.1	329.2	-80	This study	SO-CMD-NORTH
+SD51-4	SD51	0	17.1892	54.9381	Igneous	Volcanic Dike	Mafic Dike		330.0	0	6.1	329.2	-15	This study	SO-CMD-NORTH
+SD52-1	SD52	0	17.1897	54.9411	Igneous	Volcanic Dike	Mafic Dike		191.0	0	6.1	329.2	-16	This study	SO-CMD-NORTH
+SD52-2	SD52	0	17.1897	54.9411	Igneous	Volcanic Dike	Mafic Dike		289.0	0	6.1	329.2	-25	This study	SO-CMD-NORTH
+SD52-3	SD52	0	17.1897	54.9411	Igneous	Volcanic Dike	Mafic Dike		148.0	0	6.1	329.2	-84	This study	SO-CMD-NORTH
+SD52-4	SD52	0	17.1897	54.9411	Igneous	Volcanic Dike	Mafic Dike		284.0	0	6.1	329.2	-18	This study	SO-CMD-NORTH
+SD52-5	SD52	0	17.1897	54.9411	Igneous	Volcanic Dike	Mafic Dike		318.0	0	6.1	329.2	-81	This study	SO-CMD-NORTH
+SD52-6	SD52	0	17.1897	54.9411	Igneous	Volcanic Dike	Mafic Dike		238.0	0	6.1	329.2	-87	This study	SO-CMD-NORTH
+SD52-7	SD52	0	17.1897	54.9411	Igneous	Volcanic Dike	Mafic Dike		319.0	0	6.1	329.2	-73	This study	SO-CMD-NORTH
+SD52-8	SD52	0	17.1897	54.9411	Igneous	Volcanic Dike	Mafic Dike		196.0	0	6.1	329.2	-3	This study	SO-CMD-NORTH
+SD52-9	SD52	0	17.1897	54.9411	Igneous	Volcanic Dike	Mafic Dike		35.0	0	6.1	329.2	-20	This study	SO-CMD-NORTH
+SD53-1	SD53	0	17.1253	54.9479	Igneous	Volcanic Dike	Mafic Dike		137.0	0	6.1	329.2	-91	This study	SO-CMD-NORTH
+SD53-2	SD53	0	17.1253	54.9479	Igneous	Volcanic Dike	Mafic Dike		309.0	0	6.1	329.2	-40	This study	SO-CMD-NORTH
+SD53-3	SD53	0	17.1253	54.9479	Igneous	Volcanic Dike	Mafic Dike		297.0	0	6.1	329.2	-47	This study	SO-CMD-NORTH
+SD54-1	SD54	0	17.1253	54.9471	Igneous	Volcanic Dike	Mafic Dike		65.0	0	6.1	329.2	-20	This study	SO-CMD-NORTH
+SD54-2	SD54	0	17.1253	54.9471	Igneous	Volcanic Dike	Mafic Dike		301.0	0	6.1	329.2	-36	This study	SO-CMD-NORTH
+SD54-3	SD54	0	17.1253	54.9471	Igneous	Volcanic Dike	Mafic Dike		321.0	0	6.1	329.2	-33	This study	SO-CMD-NORTH
+SD55-1	SD55	0	17.1253	54.9467	Igneous	Volcanic Dike	Mafic Dike		82.0	0	6.1	329.2	-18	This study	SO-CMD-NORTH
+SD56-1	SD56	0	17.1253	54.9463	Igneous	Volcanic Dike	Mafic Dike		320.0	0	6.1	329.2	-46	This study	SO-CMD-NORTH
+SD56-2	SD56	0	17.1253	54.9463	Igneous	Volcanic Dike	Mafic Dike		172.0	0	6.1	329.2	-11	This study	SO-CMD-NORTH
+SD56-3	SD56	0	17.1253	54.9463	Igneous	Volcanic Dike	Mafic Dike		127.0	0	6.1	329.2	-30	This study	SO-CMD-NORTH
+SD57-1	SD57	0	17.1252	54.9462	Igneous	Volcanic Dike	Mafic Dike		135.0	0	6.1	329.2	-7	This study	SO-CMD-NORTH
+SD57-2	SD57	0	17.1252	54.9462	Igneous	Volcanic Dike	Mafic Dike		278.0	0	6.1	329.2	-15	This study	SO-CMD-NORTH
+SD57-3	SD57	0	17.1252	54.9462	Igneous	Volcanic Dike	Mafic Dike		192.0	0	6.1	329.2	-25	This study	SO-CMD-NORTH
+SD58-1	SD58	0	17.1251	54.9462	Igneous	Volcanic Dike	Mafic Dike		163.0	0	6.1	329.2	-21	This study	SO-CMD-NORTH
+SD58-2	SD58	0	17.1251	54.9462	Igneous	Volcanic Dike	Mafic Dike		58.0	0	6.1	329.2	-111	This study	SO-CMD-NORTH
+SD58-3	SD58	0	17.1251	54.9462	Igneous	Volcanic Dike	Mafic Dike		292.0	0	6.1	329.2	-21	This study	SO-CMD-NORTH
+SD59-1	SD59	0	17.126	54.945	Igneous	Volcanic Dike	Mafic Dike		279.0	0	6.1	329.2	-16	This study	SO-CMD-NORTH
+SD59-2	SD59	0	17.126	54.945	Igneous	Volcanic Dike	Mafic Dike		197.0	0	6.1	329.2	-86	This study	SO-CMD-NORTH
+SD60-1	SD60	0	17.1254	54.9444	Igneous	Volcanic Dike	Mafic Dike		66.0	0	6.1	329.2	-89	This study	SO-CMD-NORTH
+SD60-2	SD60	0	17.1254	54.9444	Igneous	Volcanic Dike	Mafic Dike		134.0	0	6.1	329.2	-69	This study	SO-CMD-NORTH
+SD60-3	SD60	0	17.1254	54.9444	Igneous	Volcanic Dike	Mafic Dike		202.0	0	6.1	329.2	-106	This study	SO-CMD-NORTH
+SD61-1	SD61	0	17.1245	54.9434	Igneous	Volcanic Dike	Mafic Dike		65.0	0	6.1	329.2	-50	This study	SO-CMD-NORTH
+SD62-1	SD62	0	17.1242	54.9434	Igneous	Volcanic Dike	Mafic Dike		293.0	0	6.1	329.2	-63	This study	SO-CMD-NORTH
+SD63-1	SD63	0	17.1242	54.9434	Igneous	Volcanic Dike	Mafic Dike		238.0	0	6.1	329.2	-69	This study	SO-CMD-NORTH
+SD63-2	SD63	0	17.1242	54.9434	Igneous	Volcanic Dike	Mafic Dike		79.0	0	6.1	329.2	-23	This study	SO-CMD-NORTH
+SD63-3	SD63	0	17.1242	54.9434	Igneous	Volcanic Dike	Mafic Dike		63.0	0	6.1	329.2	-50	This study	SO-CMD-NORTH
+SD64-1	SD64	0	17.124	54.9434	Igneous	Volcanic Dike	Mafic Dike		142.0	0	6.1	329.2	-20	This study	SO-CMD-NORTH
+SD65-1	SD65	0	17.1238	54.9433	Igneous	Volcanic Dike	Mafic Dike		145.0	0	6.1	329.2	-46	This study	SO-CMD-NORTH
+SD65-2	SD65	0	17.1238	54.9433	Igneous	Volcanic Dike	Mafic Dike		133.0	0	6.1	329.2	-56	This study	SO-CMD-NORTH
+SD65-3	SD65	0	17.1238	54.9433	Igneous	Volcanic Dike	Mafic Dike		154.0	0	6.1	329.2	-16	This study	SO-CMD-NORTH
+SD66-1	SD66	0	17.1234	54.9433	Igneous	Volcanic Dike	Mafic Dike		163.0	0	6.1	329.2	-25	This study	SO-CMD-NORTH
+SD67-1	SD67	0	17.124	54.9434	Igneous	Volcanic Dike	Mafic Dike		65.0	0	6.1	329.2	-26	This study	SO-CMD-NORTH
+SD67-2	SD67	0	17.124	54.9434	Igneous	Volcanic Dike	Mafic Dike		101.0	0	6.1	329.2	-20	This study	SO-CMD-NORTH
+SD67-3	SD67	0	17.124	54.9434	Igneous	Volcanic Dike	Mafic Dike		176.0	0	6.1	329.2	-8	This study	SO-CMD-NORTH
+SD68-1	SD68	0	17.1162	54.9463	Igneous	Volcanic Dike	Mafic Dike		91.0	0	6.1	329.2	-31	This study	SO-CMD-NORTH
+SD68-2	SD68	0	17.1162	54.9463	Igneous	Volcanic Dike	Mafic Dike		218.0	0	6.1	329.2	-17	This study	SO-CMD-NORTH
+SD68-3	SD68	0	17.1162	54.9463	Igneous	Volcanic Dike	Mafic Dike		178.0	0	6.1	329.2	-17	This study	SO-CMD-NORTH
+SD68-4	SD68	0	17.1162	54.9463	Igneous	Volcanic Dike	Mafic Dike		88.0	0	6.1	329.2	-23	This study	SO-CMD-NORTH
+SD68-6	SD68	0	17.1162	54.9463	Igneous	Volcanic Dike	Mafic Dike		131.9	0	6.1	329.2	-34	This study	SO-CMD-NORTH
+SD69-1	SD69	0	17.1153	54.9501	Igneous	Volcanic Dike	Mafic Dike		262.0	0	6.1	329.2	-56	This study	SO-CMD-NORTH
+SD69-2	SD69	0	17.1153	54.9501	Igneous	Volcanic Dike	Mafic Dike		220.0	0	6.1	329.2	-41	This study	SO-CMD-NORTH
+SD70-1	SD70	0	17.1153	54.9501	Igneous	Volcanic Dike	Mafic Dike		102.0	0	6.1	329.2	-62	This study	SO-CMD-NORTH
+SD71-1	SD71	0	17.1149	54.9527	Igneous	Volcanic Dike	Mafic Dike		198.0	0	6.1	329.2	-20	This study	SO-CMD-NORTH
+SD71-2	SD71	0	17.1149	54.9527	Igneous	Volcanic Dike	Mafic Dike		316.0	0	6.1	329.2	-31	This study	SO-CMD-NORTH
+SD71-3	SD71	0	17.1149	54.9527	Igneous	Volcanic Dike	Mafic Dike		61.0	0	6.1	329.2	-79	This study	SO-CMD-NORTH
+SD72-1	SD72	0	17.1439	54.9519	Igneous	Volcanic Dike	Mafic Dike		251.0	0	6.1	329.2	-43	This study	SO-CMD-NORTH
+SD73-1	SD73	0	17.1441	54.9522	Igneous	Volcanic Dike	Mafic Dike		178.0	0	6.1	329.2	-62	This study	SO-CMD-NORTH
+SD74-1	SD74	0	17.1438	54.9533	Igneous	Volcanic Dike	Mafic Dike		327.0	0	6.1	329.2	-66	This study	SO-CMD-NORTH
+SD74-2	SD74	0	17.1438	54.9533	Igneous	Volcanic Dike	Mafic Dike		352.0	0	6.1	329.2	-74	This study	SO-CMD-NORTH
+SD74-3	SD74	0	17.1438	54.9533	Igneous	Volcanic Dike	Mafic Dike		105.0	0	6.1	329.2	-61	This study	SO-CMD-NORTH
+SD74-4	SD74	0	17.1438	54.9533	Igneous	Volcanic Dike	Mafic Dike		119.0	0	6.1	329.2	-41	This study	SO-CMD-NORTH
+SD76-1	SD76	0	17.1302	54.9505	Igneous	Volcanic Dike	Felsic Dike		116.0	0	6.1	329.2	-12	This study	SO-CMD-NORTH
+SD76-2	SD76	0	17.1302	54.9505	Igneous	Volcanic Dike	Felsic Dike		180.0	0	6.1	329.2	-19	This study	SO-CMD-NORTH
+SD76-3	SD76	0	17.1302	54.9505	Igneous	Volcanic Dike	Felsic Dike		196.0	0	6.1	329.2	-5	This study	SO-CMD-NORTH
+SD76-4	SD76	0	17.1302	54.9505	Igneous	Volcanic Dike	Felsic Dike		151.0	0	6.1	329.2	-48	This study	SO-CMD-NORTH
+SD76-5	SD76	0	17.1302	54.9505	Igneous	Volcanic Dike	Felsic Dike		196.0	0	6.1	329.2	-48	This study	SO-CMD-NORTH
+SD77-1	SD77	0	17.1325	54.9506	Igneous	Volcanic Dike	Mafic Dike		264.0	0	6.1	329.2	-40	This study	SO-CMD-NORTH
+SD77-2	SD77	0	17.1325	54.9506	Igneous	Volcanic Dike	Mafic Dike		279.0	0	6.1	329.2	-58	This study	SO-CMD-NORTH
+SD77-3	SD77	0	17.1325	54.9506	Igneous	Volcanic Dike	Mafic Dike		246.0	0	6.1	329.2	-16	This study	SO-CMD-NORTH
+S85B-1	S85B	0	17.0439	55.0304	Metamorphic	Baked Contact	Gneiss		275.0	0			-67	This study	SO-CMD-NORTH
+S85B-10	S85B	0	17.0439	55.0304	Metamorphic	Baked Contact	Gneiss		332.0	0			-33	This study	SO-CMD-NORTH
+S85B-2	S85B	0	17.0439	55.0304	Metamorphic	Baked Contact	Gneiss		291.0	0			-89	This study	SO-CMD-NORTH
+S85B-3	S85B	0	17.0439	55.0304	Metamorphic	Baked Contact	Gneiss		28.0	0			-94	This study	SO-CMD-NORTH
+S85B-4	S85B	0	17.0439	55.0304	Metamorphic	Baked Contact	Gneiss		282.5	0			-90	This study	SO-CMD-NORTH
+S85B-5	S85B	0	17.0439	55.0304	Metamorphic	Baked Contact	Gneiss		245.5	0			-42	This study	SO-CMD-NORTH
+S85B-6	S85B	0	17.0439	55.0304	Metamorphic	Baked Contact	Gneiss		153.0	0			-65	This study	SO-CMD-NORTH
+S85B-7	S85B	0	17.0439	55.0304	Metamorphic	Baked Contact	Gneiss		121.0	0			-19	This study	SO-CMD-NORTH
+S85B-8	S85B	0	17.0439	55.0304	Metamorphic	Baked Contact	Gneiss		141.0	0			-20	This study	SO-CMD-NORTH
+S85B-9	S85B	0	17.0439	55.0304	Metamorphic	Baked Contact	Gneiss		188.0	0			-46	This study	SO-CMD-NORTH
+SD78-1	SD78	0	17.1329	54.9506	Igneous	Volcanic Dike	Mafic Dike		327.0	0	6.1	329.2	-59	This study	SO-CMD-NORTH
+SD79-1	SD79	0	17.1335	54.9512	Igneous	Volcanic Dike	Mafic Dike		191.0	0	6.1	329.2	-52	This study	SO-CMD-NORTH
+SD80-1	SD80	0	17.1334	54.9512	Igneous	Volcanic Dike	Felsic Dike		254.0	0	6.1	329.2	-70	This study	SO-CMD-NORTH
+SD80-2	SD80	0	17.1334	54.9512	Igneous	Volcanic Dike	Felsic Dike		111.0	0	6.1	329.2	-27	This study	SO-CMD-NORTH
+SD80-3	SD80	0	17.1334	54.9512	Igneous	Volcanic Dike	Felsic Dike		331.0	0	6.1	329.2	-51	This study	SO-CMD-NORTH
+SD80-4	SD80	0	17.1334	54.9512	Igneous	Volcanic Dike	Felsic Dike		153.0	0	6.1	329.2	-90	This study	SO-CMD-NORTH
+SD81-1	SD81	0	17.0404	55.0292	Igneous	Volcanic Dike	Felsic Dike		336.0	0			-20	This study	SO-CMD-NORTH
+SD81-2	SD81	0	17.0404	55.0292	Igneous	Volcanic Dike	Felsic Dike		42.0	0			-37	This study	SO-CMD-NORTH
+SD81-3	SD81	0	17.0404	55.0292	Igneous	Volcanic Dike	Felsic Dike		291.0	0			-78	This study	SO-CMD-NORTH
+SD81-4	SD81	0	17.0404	55.0292	Igneous	Volcanic Dike	Felsic Dike		170.0	0			-63	This study	SO-CMD-NORTH
+SD81-5	SD81	0	17.0404	55.0292	Igneous	Volcanic Dike	Felsic Dike		163.0	0			-39	This study	SO-CMD-NORTH
+SD81-6	SD81	0	17.0404	55.0292	Igneous	Volcanic Dike	Felsic Dike		210.0	0			-20	This study	SO-CMD-NORTH
+SD82-1	SD82	0	17.0404	55.0292	Igneous	Volcanic Dike	Mafic Dike		115.0	0			-63	This study	SO-CMD-NORTH
+SD82-2	SD82	0	17.0404	55.0292	Igneous	Volcanic Dike	Mafic Dike		211.0	0			-10	This study	SO-CMD-NORTH
+SD82-3	SD82	0	17.0404	55.0292	Igneous	Volcanic Dike	Mafic Dike		130.0	0			-33	This study	SO-CMD-NORTH
+SD82-4	SD82	0	17.0404	55.0292	Igneous	Volcanic Dike	Mafic Dike		137.0	0			-44	This study	SO-CMD-NORTH
+SD82-5	SD82	0	17.0404	55.0292	Igneous	Volcanic Dike	Mafic Dike		130.0	0			-71	This study	SO-CMD-NORTH
+SD83-1	SD83	0	17.0374	55.0298	Igneous	Volcanic Dike	Felsic Dike		115.0	0			-46	This study	SO-CMD-NORTH
+SD83-2	SD83	0	17.0374	55.0298	Igneous	Volcanic Dike	Felsic Dike		71.0	0			-32	This study	SO-CMD-NORTH
+SD83-3	SD83	0	17.0374	55.0298	Igneous	Volcanic Dike	Felsic Dike		69.0	0			-35	This study	SO-CMD-NORTH
+SD83-4	SD83	0	17.0374	55.0298	Igneous	Volcanic Dike	Felsic Dike		81.0	0			-29	This study	SO-CMD-NORTH
+SD83-5	SD83	0	17.0374	55.0298	Igneous	Volcanic Dike	Felsic Dike		116.0	0			-27	This study	SO-CMD-NORTH
+SD83-6	SD83	0	17.0374	55.0298	Igneous	Volcanic Dike	Felsic Dike		95.0	0			-27	This study	SO-CMD-NORTH
+SD84-1	SD84	0	17.0374	55.0298	Igneous	Volcanic Dike	Mafic Dike		142.0	0			-13	This study	SO-CMD-NORTH
+SD84-2	SD84	0	17.0374	55.0298	Igneous	Volcanic Dike	Mafic Dike		127.0	0			-13	This study	SO-CMD-NORTH
+SD84-3	SD84	0	17.0374	55.0298	Igneous	Volcanic Dike	Mafic Dike		287.0	0			-31	This study	SO-CMD-NORTH
+SD85-1	SD85	0	17.0439	55.0304	Igneous	Volcanic Dike	Mafic Dike		354.0	0			-19	This study	SO-CMD-NORTH
+SD85-2	SD85	0	17.0439	55.0304	Igneous	Volcanic Dike	Mafic Dike		182.0	0			-40	This study	SO-CMD-NORTH
+SD85-3	SD85	0	17.0439	55.0304	Igneous	Volcanic Dike	Mafic Dike		60.0	0			-92	This study	SO-CMD-NORTH
+SD86-1	SD86	0	17.1444	54.9623	Igneous	Volcanic Dike	Mafic Dike		311.0	0	6.1	329.2	-56	This study	SO-CMD-NORTH
+SD86-2	SD86	0	17.1444	54.9623	Igneous	Volcanic Dike	Mafic Dike		261.0	0	6.1	329.2	-115	This study	SO-CMD-NORTH
+SD86-3	SD86	0	17.1444	54.9623	Igneous	Volcanic Dike	Mafic Dike		244.0	0	6.1	329.2	-31	This study	SO-CMD-NORTH
+SD87-1	SD87	0	17.1447	54.962	Igneous	Volcanic Dike	Mafic Dike		120.0	0	6.1	329.2	-31	This study	SO-CMD-NORTH
+SD87-2	SD87	0	17.1447	54.962	Igneous	Volcanic Dike	Mafic Dike		68.0	0	6.1	329.2	-66	This study	SO-CMD-NORTH
+SD87-3	SD87	0	17.1447	54.962	Igneous	Volcanic Dike	Mafic Dike		311.0	0	6.1	329.2	-5	This study	SO-CMD-NORTH
+SD88-1	SD88	0	17.1419	54.9628	Igneous	Volcanic Dike	Mafic Dike		93.0	0	6.1	329.2	-22	This study	SO-CMD-NORTH
+SD89-1	SD89	0	17.1415	54.9627	Igneous	Volcanic Dike	Mafic Dike		197.0	0	6.1	329.2	-78	This study	SO-CMD-NORTH
+SD89-2	SD89	0	17.1415	54.9627	Igneous	Volcanic Dike	Mafic Dike		200.0	0	6.1	329.2	-73	This study	SO-CMD-NORTH
+SD89-3	SD89	0	17.1415	54.9627	Igneous	Volcanic Dike	Mafic Dike		96.0	0	6.1	329.2	-33	This study	SO-CMD-NORTH
+SD90-2	SD90	0	17.1411	54.9623	Igneous	Volcanic Dike	Mafic Dike		167.0	0	6.1	329.2	-21	This study	SO-CMD-NORTH
+SD90-3	SD90	0	17.1411	54.9623	Igneous	Volcanic Dike	Mafic Dike		187.0	0	6.1	329.2	-55	This study	SO-CMD-NORTH
+SD91-1	SD91	0	17.1408	54.9621	Igneous	Volcanic Dike	Mafic Dike		254.0	0	6.1	329.2	-86	This study	SO-CMD-NORTH
+SD91-2	SD91	0	17.1408	54.9621	Igneous	Volcanic Dike	Mafic Dike		166.0	0	6.1	329.2	-38	This study	SO-CMD-NORTH
+SD91-3	SD91	0	17.1408	54.9621	Igneous	Volcanic Dike	Mafic Dike		227.0	0	6.1	329.2	-86	This study	SO-CMD-NORTH
+SD92-1	SD92	0	17.1404	54.9623	Igneous	Volcanic Dike	Mafic Dike		317.0	0	6.1	329.2	-32	This study	SO-CMD-NORTH
+SD92-2	SD92	0	17.1404	54.9623	Igneous	Volcanic Dike	Mafic Dike		111.0	0	6.1	329.2	-80	This study	SO-CMD-NORTH
+SD92-3	SD92	0	17.1404	54.9623	Igneous	Volcanic Dike	Mafic Dike		148.0	0	6.1	329.2	-15	This study	SO-CMD-NORTH
+SD93-1	SD93	0	17.1399	54.9627	Igneous	Volcanic Dike	Mafic Dike		320.0	0	6.1	329.2	-31	This study	SO-CMD-NORTH
+SD93-2	SD93	0	17.1399	54.9627	Igneous	Volcanic Dike	Mafic Dike		2.0	0	6.1	329.2	-20	This study	SO-CMD-NORTH
+SD93-3	SD93	0	17.1399	54.9627	Igneous	Volcanic Dike	Mafic Dike		240.0	0	6.1	329.2	-66	This study	SO-CMD-NORTH
+SD94-1	SD94	0	17.1398	54.9617	Igneous	Volcanic Dike	Mafic Dike		118.0	0	6.1	329.2	-116	This study	SO-CMD-NORTH
+SD94-2	SD94	0	17.1398	54.9617	Igneous	Volcanic Dike	Mafic Dike		85.1	0	6.1	329.2	-74	This study	SO-CMD-NORTH
+SD94-3	SD94	0	17.1398	54.9617	Igneous	Volcanic Dike	Mafic Dike		293.0	0	6.1	329.2	-25	This study	SO-CMD-NORTH
+SD95-1	SD95	0	17.1327	54.954	Igneous	Volcanic Dike	Felsic Dike		328.1	0	6.1	329.2	-54	This study	SO-CMD-NORTH
+SD95-2	SD95	0	17.1327	54.954	Igneous	Volcanic Dike	Felsic Dike		254.0	0	6.1	329.2	-81	This study	SO-CMD-NORTH
+SD95-3	SD95	0	17.1327	54.954	Igneous	Volcanic Dike	Felsic Dike		158.0	0	6.1	329.2	-78	This study	SO-CMD-NORTH
+SD95-4	SD95	0	17.1327	54.954	Igneous	Volcanic Dike	Felsic Dike		116.0	0	6.1	329.2	-59	This study	SO-CMD-NORTH
+SD95-5	SD95	0	17.1327	54.954	Igneous	Volcanic Dike	Felsic Dike		146.0	0	6.1	329.2	-79	This study	SO-CMD-NORTH
+SD96-1	SD96	0	17.1326	54.954	Igneous	Volcanic Dike	Mafic Dike		68.0	0	6.1	329.2	-25	This study	SO-CMD-NORTH
+SD97-1	SD97	0	17.1345	54.9548	Igneous	Volcanic Dike	Mafic Dike		76.0	0	6.1	329.2	-40	This study	SO-CMD-NORTH
+SD98-1	SD98	0	17.1347	54.9549	Igneous	Volcanic Dike	Mafic Dike		320.0	0	6.1	329.2	-23	This study	SO-CMD-NORTH
+SD98-2	SD98	0	17.1347	54.9549	Igneous	Volcanic Dike	Mafic Dike		324.0	0	6.1	329.2	-19	This study	SO-CMD-NORTH
+SD98-3	SD98	0	17.1347	54.9549	Igneous	Volcanic Dike	Mafic Dike		184.0	0	6.1	329.2	-21	This study	SO-CMD-NORTH
+SD99-1	SD99	0	17.1348	54.9549	Igneous	Volcanic Dike	Mafic Dike		263.0	0	6.1	329.2	-3	This study	SO-CMD-NORTH
+SD99-2	SD99	0	17.1348	54.9549	Igneous	Volcanic Dike	Mafic Dike		120.0	0	6.1	329.2	-101	This study	SO-CMD-NORTH
+SD99-3	SD99	0	17.1348	54.9549	Igneous	Volcanic Dike	Mafic Dike		190.0	0	6.1	329.2	-24	This study	SO-CMD-NORTH
+S100-1	S100	0	17.1351	54.955	Igneous	Volcanic Dike	Felsic Dike		150.0	0	6.1	329.2	-61	This study	SO-CMD-NORTH
+S100-2	S100	0	17.1351	54.955	Igneous	Volcanic Dike	Felsic Dike		86.0	0	6.1	329.2	-67	This study	SO-CMD-NORTH
+S100-3	S100	0	17.1351	54.955	Igneous	Volcanic Dike	Felsic Dike		151.0	0	6.1	329.2	-57	This study	SO-CMD-NORTH
+S101-1	S101	0	17.111	54.9426	Igneous	Volcanic Dike	Mafic Dike		259.0	0	6.1	329.2	-35	This study	SO-CMD-NORTH
+S101-2	S101	0	17.111	54.9426	Igneous	Volcanic Dike	Mafic Dike		231.2	0	6.1	329.2	-67	This study	SO-CMD-NORTH
+S101-3	S101	0	17.111	54.9426	Igneous	Volcanic Dike	Mafic Dike		213.3	0	6.1	329.2	-58	This study	SO-CMD-NORTH
+S102-1	S102	0	17.1075	54.9425	Igneous	Volcanic Dike	Mafic Dike		90.0	0	6.1	329.2	-61	This study	SO-CMD-NORTH
+S102-2	S102	0	17.1075	54.9425	Igneous	Volcanic Dike	Mafic Dike		71.0	0	6.1	329.2	-60	This study	SO-CMD-NORTH
+S102-3	S102	0	17.1075	54.9425	Igneous	Volcanic Dike	Mafic Dike		239.3	0	6.1	329.2	-67	This study	SO-CMD-NORTH
+S102-4	S102	0	17.1075	54.9425	Igneous	Volcanic Dike	Mafic Dike		78.0	0	6.1	329.2	-87	This study	SO-CMD-NORTH
+S103-1	S103	0	17.1049	54.943	Igneous	Volcanic Dike	Mafic Dike		120.0	0	6.1	329.2	-32	This study	SO-CMD-NORTH
+S103-2	S103	0	17.1049	54.943	Igneous	Volcanic Dike	Mafic Dike		111.0	0	6.1	329.2	-66	This study	SO-CMD-NORTH
+S103-3	S103	0	17.1049	54.943	Igneous	Volcanic Dike	Mafic Dike		185.0	0	6.1	329.2	-34	This study	SO-CMD-NORTH
+S104-1	S104	0	17.1219	54.9242	Igneous	Volcanic Dike	Mafic Dike		302.0	0	6.1	329.2	-54	This study	SO-CMD-NORTH
+S104-2	S104	0	17.1219	54.9242	Igneous	Volcanic Dike	Mafic Dike		341.0	0	6.1	329.2	-34	This study	SO-CMD-NORTH
+S104-3	S104	0	17.1219	54.9242	Igneous	Volcanic Dike	Mafic Dike		122.0	0	6.1	329.2	-74	This study	SO-CMD-NORTH
+S104-4	S104	0	17.1219	54.9242	Igneous	Volcanic Dike	Mafic Dike		92.0	0	6.1	329.2	-46	This study	SO-CMD-NORTH
+S104-5	S104	0	17.1219	54.9242	Igneous	Volcanic Dike	Mafic Dike		327.0	0	6.1	329.2	-48	This study	SO-CMD-NORTH
+S104-6	S104	0	17.1219	54.9242	Igneous	Volcanic Dike	Mafic Dike		8.0	0	6.1	329.2	-28	This study	SO-CMD-NORTH
+S105-1	S105	0	17.1219	54.924	Igneous	Volcanic Dike	Mafic Dike		80.0	0	6.1	329.2	-13	This study	SO-CMD-NORTH
+S105-2	S105	0	17.1219	54.924	Igneous	Volcanic Dike	Mafic Dike		35.0	0	6.1	329.2	-78	This study	SO-CMD-NORTH
+S105-3	S105	0	17.1219	54.924	Igneous	Volcanic Dike	Mafic Dike		298.0	0	6.1	329.2	-61	This study	SO-CMD-NORTH
+S106-1	S106	0	17.1171	54.9346	Igneous	Volcanic Dike	Mafic Dike		312.0	0	6.1	329.2	-30	This study	SO-CMD-NORTH
+S106-2	S106	0	17.1171	54.9346	Igneous	Volcanic Dike	Mafic Dike		212.0	0	6.1	329.2	-36	This study	SO-CMD-NORTH
+S106-3	S106	0	17.1171	54.9346	Igneous	Volcanic Dike	Mafic Dike		357.7	0	6.1	329.2	-63	This study	SO-CMD-NORTH
+S106-4	S106	0	17.1171	54.9346	Igneous	Volcanic Dike	Mafic Dike		130.0	0	6.1	329.2	-16	This study	SO-CMD-NORTH
+S106-5	S106	0	17.1171	54.9346	Igneous	Volcanic Dike	Mafic Dike		52.8	0	6.1	329.2	-95	This study	SO-CMD-NORTH
+S106-6	S106	0	17.1171	54.9346	Igneous	Volcanic Dike	Mafic Dike		105.0	0	6.1	329.2	-10	This study	SO-CMD-NORTH
+S107-1	S107	0	17.1169	54.9329	Igneous	Volcanic Dike	Mafic Dike		54.0	0	6.1	329.2	-72	This study	SO-CMD-NORTH
+S19B-13	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		271.0	0			-22	This study	SO-CMD-NORTH
+S19B-14	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		9.0	0			-25	This study	SO-CMD-NORTH
+S19B-15	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		316.0	0			-14	This study	SO-CMD-NORTH
+S19B-16	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		326.0	0			-20	This study	SO-CMD-NORTH
+S19B-17	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		219.0	0			-12	This study	SO-CMD-NORTH
+S19B-18	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		31.0	0			-20	This study	SO-CMD-NORTH
+S19B-19	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		243.0	0			-65	This study	SO-CMD-NORTH
+S19B-20	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		23.0	0			-72	This study	SO-CMD-NORTH
+S19B-21	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		207.0	0			-13	This study	SO-CMD-NORTH
+S19B-22	S19B	0	17.0586	54.9029	Metamorphic	Baked Contact	Amphibolite		37.2	0			-37	This study	SO-CMD-NORTH
+AynC-1	AynC	0	17.0928	54.7669	Sedimentary	Conglomerate	Diamictite		13.0	0	15.8	327.6	-85	This study	SO-CMD-NORTH
+AynC-2	AynC	0	17.0928	54.7669	Sedimentary	Conglomerate	Diamictite		192.0	0	15.8	327.6	-30	This study	SO-CMD-NORTH
+AynC-3	AynC	0	17.0928	54.7669	Sedimentary	Conglomerate	Diamictite		69.0	0	15.8	327.6	-110	This study	SO-CMD-NORTH
+AynC-4	AynC	0	17.0928	54.7669	Sedimentary	Conglomerate	Diamictite		9.0	0	15.8	327.6	-54	This study	SO-CMD-NORTH
+AynC-5	AynC	0	17.0928	54.7669	Sedimentary	Conglomerate	Diamictite		317.0	0	15.8	327.6	-63	This study	SO-CMD-NORTH
+AynC-6	AynC	0	17.0928	54.7669	Sedimentary	Conglomerate	Diamictite		114.0	0	15.8	327.6	-33	This study	SO-CMD-NORTH
+AynC-7	AynC	0	17.0928	54.7669	Sedimentary	Conglomerate	Diamictite		18.0	0	15.8	327.6	-7	This study	SO-CMD-NORTH
+AynC-8	AynC	0	17.0928	54.7669	Sedimentary	Conglomerate	Diamictite		40.0	0	15.8	327.6	-34	This study	SO-CMD-NORTH
+AynC-9	AynC	0	17.0928	54.7669	Sedimentary	Conglomerate	Diamictite		352.0	0	15.8	327.6	-76	This study	SO-CMD-NORTH
+AynC-10	AynC	0	17.0928	54.7669	Sedimentary	Conglomerate	Diamictite		79.0	0	15.8	327.6	-52	This study	SO-CMD-NORTH
+AynC-11	AynC	0	17.0928	54.7669	Sedimentary	Conglomerate	Diamictite		349.0	0	15.8	327.6	-66	This study	SO-CMD-NORTH
+AynC-12	AynC	0	17.0928	54.7669	Sedimentary	Conglomerate	Diamictite		121.0	0	15.8	327.6	-59	This study	SO-CMD-NORTH
+AynC-13	AynC	0	17.0928	54.7669	Sedimentary	Conglomerate	Diamictite		32.0	0	15.8	327.6	-89	This study	SO-CMD-NORTH
+AynC-14	AynC	0	17.0928	54.7669	Sedimentary	Conglomerate	Diamictite		358.0	0	15.8	327.6	-74	This study	SO-CMD-NORTH
+AynC-15	AynC	0	17.0928	54.7669	Sedimentary	Conglomerate	Diamictite		163.0	0	15.8	327.6	-13	This study	SO-CMD-NORTH
+AynC-16	AynC	0	17.0928	54.7669	Sedimentary	Conglomerate	Diamictite		64.0	0	15.8	327.6	-116	This study	SO-CMD-NORTH
+AynC-17	AynC	0	17.0928	54.7669	Sedimentary	Conglomerate	Diamictite		240.0	0	15.8	327.6	-46	This study	SO-CMD-NORTH

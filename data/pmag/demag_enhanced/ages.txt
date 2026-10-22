@@ -1,0 +1,5 @@
+tab	ages
+age	location	site	age_sigma	age_unit	citations	description	method_codes
+726.1	Zalawt plain		0.4	Ma	10.2475/10.2007.01	Leger Granite, U-Pb zircon ID-TIMS (Bowring et al., 2007); the Shaat dikes and Leger Granite were broadly comagmatic	GM-UPB
+725.0	Zalawt plain	SD39	9.0	Ma	This study	Felsic dike, U-Pb zircon LA-ICPMS	GM-UPB
+727.0	Zalawt plain	SD50	16.0	Ma	This study	Felsic dike, U-Pb zircon LA-ICPMS	GM-UPB
